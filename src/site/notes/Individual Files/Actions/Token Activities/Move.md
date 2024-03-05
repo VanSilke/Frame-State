@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/token-activities/move/"}
 ---
 
-**Cost:** [Lose](Loss.md) 1 [action](Actions.md)
+**Cost:** [[Individual Files/Introduction/Statistics/Loss\|Lose]] 1 [[Individual Files/Gameplay/Actions\|action]]
 
-You perform [horizontal movement](Movement.md) with a movement range equal to your [speed](Speed.md).
+You perform [[Individual Files/Gameplay/Movement\|horizontal movement]] with a movement range equal to your [[Individual Files/Chargen/Frame/Frame Statistics/Speed\|speed]].
