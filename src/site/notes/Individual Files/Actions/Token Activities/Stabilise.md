@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/token-activities/stabilise/"}
 ---
 
-**Cost:** [Lose](Loss.md) 1 [action](Actions.md)
+**Cost:** [[Individual Files/Introduction/Statistics/Loss\|Lose]] 1 [[Individual Files/Gameplay/Actions\|action]]
 
-Make a [correct](Correct.md) [test](Tests.md).
+Make a [[Individual Files/Actions/Tests/Opposition Tests/Correct\|correct]] [[Individual Files/Introduction/Tests\|test]].
 
-The first stabilise [activity](Activities.md) is made automatically at the beginning of your [turn](Rounds.md) and does not cost [actions](Actions.md).
+The first stabilise [[Individual Files/Gameplay/Activities\|activity]] is made automatically at the beginning of your [[Individual Files/Gameplay/Rounds\|turn]] and does not cost [[Individual Files/Gameplay/Actions\|actions]].
