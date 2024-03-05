@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/individual-files/chargen/points/"}
 ---
 
-When creating a character, you operate within point buy, linearly purchasing [dice and values](Numbers.md) with points at the rate of one increase per point. Each advancement category uses its own point pool. You cannot exchange points between pools.
+When creating a character, you operate within point buy, linearly purchasing [[Individual Files/Introduction/Numbers\|dice and values]] with points at the rate of one increase per point. Each advancement category uses its own point pool. You cannot exchange points between pools.
 
 | Category | Starting Points | Upgrade Cost | Maximum Points |
 | -------- | --------------- | ------------ | -------------- |
@@ -10,7 +10,7 @@ When creating a character, you operate within point buy, linearly purchasing [di
 | Weapons  | 20              | 300          | 30             |
 | Training | 8               | 500          | 13             |
 
-Additionally, each individual [weapon](Weapons.md) can have a maximum of 8 points. This is a weapon limit. This too can be increased, up to 13.
+Additionally, each individual [[Individual Files/Chargen/Weapons/Weapons\|weapon]] can have a maximum of 8 points. This is a weapon limit. This too can be increased, up to 13.
 
 | Starting Weapon Limit | Upgrade Cost | Maximum Limit |
 | --------------------- | ------------ | ------------- |
