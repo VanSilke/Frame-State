@@ -28,8 +28,8 @@ The game has two kinds of players: any number of Pilots (preferably between 2 an
 # Being a Pilot
 As a Pilot, you operate a mechanical wonder of military technology dubbed a "[frame](Frame)", and interact with the [mission](Missions) by the Handler. You begin with 100 [credits](Credits) and a functioning [frame](Frame). Good luck.
 * [Learn how to make a pilot from scratch.](Making%20A%20Pilot.md)
-* [Learn about your frame.](Piloting%20Your%20Frame)
-* [Learn how to play the game.](Playing%20The%20Game)
+* [Learn about your frame.](Piloting%20Your%20Frame.md)
+* [Learn how to play the game.](Playing%20The%20Game.md)
   
 # Being a Handler
 The Handler simulates the game world, including [NPCs](Entities) both allied and hostile, and the environment on the [map](Map).
