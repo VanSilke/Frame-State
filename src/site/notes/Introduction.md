@@ -13,7 +13,7 @@
 | Publishing     | [Obsidian](https://obsidian.md) and other                                                                              |
 FRAME STATE RPG is an attempt to produce a lightweight game about mech warfare. 
 
-The PLAYTEST #1 version features minimal fluff and incomplete mechanics. For one, it features no pre-made [frames](Frame) or [NPCs](NPC%20Design), although full rules are included for their creation. PLAYTEST #1 also extensively uses an Obsidian vault for organising files, neglecting traditional rulebook structure in the process.
+The PLAYTEST 1 version features minimal fluff and incomplete mechanics. For one, it features no pre-made [frames](Frame) or [NPCs](NPC%20Design), although full rules are included for their creation. PLAYTEST 1 also extensively uses an Obsidian vault for organising files, neglecting traditional rulebook structure in the process.
 
 Finally, the author does not warrant that the game will be in any way balanced during any of the PLAYTEST versions. As a result, some artefacts may occur, such as inability to get by with [mission](Missions) [rewards](Credits) by the [minimum tally](Handling.md) alone.
 
