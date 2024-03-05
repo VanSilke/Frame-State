@@ -14,9 +14,9 @@
 
 FRAME STATE RPG is an attempt to produce a lightweight game about mech warfare. 
 
-The PLAYTEST 1 version features minimal fluff and incomplete mechanics. For one, it features no pre-made [frames](Frame) or [NPCs](NPC%20Design), although full rules are included for their creation. PLAYTEST 1 also extensively uses an Obsidian vault for organising files, neglecting traditional rulebook structure in the process.
+The PLAYTEST 1 version features minimal fluff and incomplete mechanics. For one, it features no pre-made [[Individual Files/Chargen/Frame\|frames]] or [[Individual Files/Introduction/NPC Design\|NPCs]], although full rules are included for their creation. PLAYTEST 1 also extensively uses an Obsidian vault for organising files, neglecting traditional rulebook structure in the process.
 
-Finally, the author does not warrant that the game will be in any way balanced during any of the PLAYTEST versions. As a result, some artefacts may occur, such as inability to get by with [mission](Missions) [rewards](Credits) by the [minimum tally](Handling.md) alone.
+Finally, the author does not warrant that the game will be in any way balanced during any of the PLAYTEST versions. As a result, some artefacts may occur, such as inability to get by with [[Individual Files/Introduction/Missions\|mission]] [[Individual Files/Introduction/Credits\|rewards]] by the [[Individual Files/Other/Handling\|minimum tally]] alone.
 
 Current pitfalls, which you must keep in mind when playing: 
 * only one official mark test
@@ -24,14 +24,14 @@ Current pitfalls, which you must keep in mind when playing:
 * completely unknown conflict balance
 
 # Players
-The game has two kinds of players: any number of Pilots (preferably between 2 and 5) and a [Handler](Handling.md).
+The game has two kinds of players: any number of Pilots (preferably between 2 and 5) and a [[Individual Files/Other/Handling\|Handler]].
 
 # Being a Pilot
-As a Pilot, you operate a mechanical wonder of military technology dubbed a "[frame](Frame)", and interact with the [mission](Missions) by the Handler. You begin with 100 [credits](Credits) and a functioning [frame](Frame). Good luck.
-* [Learn how to make a pilot from scratch.](Making%20A%20Pilot.md)
-* [Learn about your frame.](Piloting%20Your%20Frame.md)
-* [Learn how to play the game.](Playing%20The%20Game.md)
+As a Pilot, you operate a mechanical wonder of military technology dubbed a "[[Individual Files/Chargen/Frame\|frame]]", and interact with the [[Individual Files/Introduction/Missions\|mission]] by the Handler. You begin with 100 [[Individual Files/Introduction/Credits\|credits]] and a functioning [[Individual Files/Chargen/Frame\|frame]]. Good luck.
+* [[Individual Files/Other/Making A Pilot\|Learn how to make a pilot from scratch.]]
+* [[Individual Files/Other/Piloting Your Frame\|Learn about your frame.]]
+* [[Individual Files/Other/Playing The Game\|Learn how to play the game.]]
   
 # Being a Handler
-The Handler simulates the game world, including [NPCs](Entities) both allied and hostile, and the environment on the [map](Map).
-* [Learn basics of handling a game.](Handling.md)
+The Handler simulates the game world, including [[Individual Files/Introduction/Entities\|NPCs]] both allied and hostile, and the environment on the [[Individual Files/Gameplay/Map\|map]].
+* [[Individual Files/Other/Handling\|Learn basics of handling a game.]]
