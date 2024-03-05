@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/individual-files/chargen/weapons/weapon-statistics/multifire/"}
+---
+
+Multifire is a [weapon](Weapons.md) [statistic](Statistics.md) with a minimum of 0 and maximum of 1. A weapon begins with multifire equal to the maximum. [Recovery](Recovery.md) increases multifire, and [loss](Loss.md) reduces it. [Improving](Improvement.md) raises the maximum multifire, and [deterioration](Deterioration.md) reduces it.
+
+# Use Cases
+If the [weapon's](Weapons.md) multifire is 2 or higher, when a [weapon](Weapons.md) is [discharged](Discharge.md), you choose to do so against the same or multiple [designations](Designate.md). In either case, if the [weapon](Weapons.md) [discharge](Discharge.md) makes you you lose [recoil](Recoil.md), you lose an amount equal to the multifire value.
+* When focus firing on a single designation, make as many [targeting](Target.md) [tests](Tests.md) as you have multifire, and count the number of [successes](Success.md). Then, multiply the number of [impact](Impact.md) and [damage](Damage.md) tests by the number of [successes](Success.md) and take the best [impact](Impact.md) and [damage](Damage.md) [scores](Score.md) for each. This leads to a much higher average. Finally, if focus fire is higher than the enemy [shield's](Weapon%20Type.md) multifire, [impact](Impact.md) and [damage](Damage.md) from excess [hits](Target.md) counts against the normal [brace](Brace.md) and [defences](Defend.md) without the [shield's](Weapon%20Type.md) bonuses.
+* When multitargeting, [designate](Designate.md) up to as many points of interest as you have multifire, and make a separate [targeting](Target.md) [test](Tests.md) for each [designation](Designations.md). Each [designation](Designations.md) is subject to [impact](Impact.md) and [damage](Damage.md) [tested](Tests.md) separately for each [designation](Designations.md), but a single point of interest cannot be affected more than once. In fringe cases, such as when an enemy is in range of multiple explosions going off as a result of multitargeting with a [blast](Weapon%20Type.md) [weapon](Weapons.md), they take only the highest result.
