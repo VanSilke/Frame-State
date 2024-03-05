@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/tests/mark-tests/target/"}
 ---
 
-**[Test:](Tests.md)** Based on [discharged](Discharge.md) [weapon type](Weapon%20Type.md)
-**[Mark:](Mark.md)** [Evade](Evade.md) [score](Score.md)
-**[Success:](Success.md)** You hit the [designation](Designations.md).
-**[Failure:](Failure.md)** You miss the [designation](Designations.md).
+**[[Individual Files/Introduction/Tests\|Test:]]** Based on [[Individual Files/Actions/Sub Actions/Discharge\|discharged]] [[Individual Files/Chargen/Weapons/Weapon Type\|weapon type]]
+**[[Individual Files/Introduction/Tests/Mark\|Mark:]]** [[Individual Files/Actions/Tests/Opposition Tests/Evade\|Evade.md]] [[Individual Files/Introduction/Tests/Score\|score]]
+**[[Individual Files/Introduction/Tests/Success\|Success:]]** You hit the [[Individual Files/Gameplay/Designations\|designation]].
+**[[Individual Files/Introduction/Tests/Failure\|Failure:]]** You miss the [[Individual Files/Gameplay/Designations\|designation]].
