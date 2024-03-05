@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/individual-files/gameplay/map/"}
 ---
 
-The map describes where everything is situated, including but not limited to yourself, enemies and [obstacles](Obstacles.md).
+The map describes where everything is situated, including but not limited to yourself, enemies and [[Individual Files/Gameplay/Obstacles\|obstacles]].
 
 The map is separated into an even hexagonal column grid. The distance from one centre of the hex to the centre of another adjacent hex is roughly 10 metres, horizontally and vertically.
 
