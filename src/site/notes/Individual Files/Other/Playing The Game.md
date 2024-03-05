@@ -5,9 +5,9 @@
 Once you have [[Individual Files/Other/Making A Pilot\|made your character]], it is time to send them on a [[Individual Files/Introduction/Missions\|mission]]. Before you sortie, however, it wouldn't hurt to undergo a number of voluntary training exercises.
 
 # Gameplay Loop
-The standard gameplay loop consists of [[Introduction\|player pilots]] accepting [[Individual Files/Introduction/Missions\|missions]] from their [[Individual Files/Other/Handling\|handler]]. Each [[Individual Files/Introduction/Missions\|mission]] consists of one or more [[Individual Files/Gameplay/Map\|maps]], and each [[Individual Files/Gameplay/Map\|map]] is composed of one or more [[Individual Files/Introduction/Conflicts\|conflicts]]. Once a mission is complete, the [[Introduction\|player pilots]] return to their narratively managed base of operations, where they enjoy the [[Individual Files/Introduction/Missions\|mission's]] [[Individual Files/Introduction/Credits\|bounty]] (reduced by the maintenance costs).
+The standard gameplay loop consists of [[Individual Files/Introduction\|player pilots]] accepting [[Individual Files/Introduction/Missions\|missions]] from their [[Individual Files/Other/Handling\|handler]]. Each [[Individual Files/Introduction/Missions\|mission]] consists of one or more [[Individual Files/Gameplay/Map\|maps]], and each [[Individual Files/Gameplay/Map\|map]] is composed of one or more [[Individual Files/Introduction/Conflicts\|conflicts]]. Once a mission is complete, the [[Individual Files/Introduction\|player pilots]] return to their narratively managed base of operations, where they enjoy the [[Individual Files/Introduction/Missions\|mission's]] [[Individual Files/Introduction/Credits\|bounty]] (reduced by the maintenance costs).
 
-Note that both [[Introduction\|player pilots]] and NPCs are [[Individual Files/Introduction/Entities\|entities]] of sort, and interact with each other similarly, with certain caveats.
+Note that both [[Individual Files/Introduction\|player pilots]] and NPCs are [[Individual Files/Introduction/Entities\|entities]] of sort, and interact with each other similarly, with certain caveats.
 
 # Activities
 In order to interact with the game world, you dedicate your resources to performing [[Individual Files/Gameplay/Activities\|activities]]. 
