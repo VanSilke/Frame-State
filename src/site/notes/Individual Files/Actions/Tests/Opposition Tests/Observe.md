@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/tests/opposition-tests/observe/"}
 ---
 
-**[Test:](Tests.md)** [Sharpness](Skills.md) + [Scanner](Tuning.md)
-**[Opposition:](Opposition.md)** None (default)
-**[Score:](Score.md)** Set the [range](Map.md) used for referenced activities.
+**[[Individual Files/Introduction/Tests\|Test:]]** [[Individual Files/Chargen/Skills\|Sharpness]] + [[Individual Files/Chargen/Frame/Tuning\|Scanner]]
+**[[Individual Files/Introduction/Tests/Opposition\|Opposition:]]** None (default)
+**[[Individual Files/Introduction/Tests/Score\|Score:]]** Set the [[Individual Files/Gameplay/Map\|range]] used for referenced activities.
