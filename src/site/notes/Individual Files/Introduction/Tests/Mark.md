@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/individual-files/introduction/tests/mark/"}
 ---
 
-A mark is a [number](Numbers.md) you make your [test](Tests.md) against. The presence of a mark indicates that the test results in a [success](Success.md) or [failure](Failure.md), and its absence indicates that the result is a [score](Score.md).
+A mark is a [[Individual Files/Introduction/Numbers\|number]] you make your [[Individual Files/Introduction/Tests\|test]] against. The presence of a mark indicates that the test results in a [[Individual Files/Introduction/Tests/Success\|success]] or [[Individual Files/Introduction/Tests/Failure\|failure]], and its absence indicates that the result is a [[Individual Files/Introduction/Tests/Score\|score]].
 
 # Draws
-If the result equals the [mark](Mark.md), [player pilots](Entities.md) always get a [success](Success.md) and [NPCs](Entities.md) always get a [failure](Failure.md), no matter who initiated the [test](Tests.md).
+If the result equals the [[Individual Files/Introduction/Tests/Mark\|mark]], [[Individual Files/Introduction/Entities\|player pilots]] always get a [[Individual Files/Introduction/Tests/Success\|success]] and [[Individual Files/Introduction/Entities\|NPCs]] always get a [[Individual Files/Introduction/Tests/Failure\|failure]], no matter who initiated the [[Individual Files/Introduction/Tests\|test]].
 
-If two of the same type of [entity](Entities.md) clash, the [entity](Entities.md) currently taking their [turn](Rounds.md) wins on a draw.
+If two of the same type of [[Individual Files/Introduction/Entities\|entity]] clash, the [[Individual Files/Introduction/Entities\|entity]] currently taking their [[Individual Files/Gameplay/Rounds\|turn]] wins on a draw.
