@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/tests/opposition-tests/correct/"}
 ---
 
-**[Test:](Tests.md)** [Coordination](Skills.md) + [System Recovery](Tuning.md)
-**[Opposition:](Opposition.md)** None (default)
-**[Score:](Score.md)** [Recover](Recovery.md) [stability](Stability.md).
+**[[Individual Files/Introduction/Tests\|Test:]]** [[Individual Files/Chargen/Skills\|Coordination]] + [[Individual Files/Chargen/Frame/Tuning\|System Recovery]]
+**[[Individual Files/Introduction/Tests/Opposition\|Opposition:]]** None (default)
+**[[Individual Files/Introduction/Tests/Score\|Score:]]** [[Individual Files/Introduction/Statistics/Recovery\|Recover]] [[Individual Files/Chargen/Frame/Frame Statistics/Stability\|stability]].
