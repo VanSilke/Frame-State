@@ -6,4 +6,4 @@ Credits are an in-game currency you earn through [[Individual Files/Introduction
 
 There is no real-life equivalent to credits, but it is purposed that 1 credit unit would warrant mundane currency enough to comfortably live for a year.
 
-Trading credits between [[Introduction\|player pilots]] is encouraged. Whether it ends with kindness of heart or a narrative favour, is up to you.
+Trading credits between [[Individual Files/Introduction\|player pilots]] is encouraged. Whether it ends with kindness of heart or a narrative favour, is up to you.
