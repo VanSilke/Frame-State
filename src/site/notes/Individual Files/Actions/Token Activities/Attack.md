@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/token-activities/attack/"}
 ---
 
-**Cost:** [Lose](Loss.md) 1 [action](Actions.md)
+**Cost:** [[Individual Files/Introduction/Statistics/Loss\|Lose]] 1 [[Individual Files/Gameplay/Actions\|action]]
 
-You [designate](Designate.md) an [enemy](Entities.md) or other point of interest, and [use](Use.md) your [weapons](Weapons.md) on it. You can use as many [weapons](Weapons.md) as you have access to, in any order, with one attack [activity](Activities.md).
+You [[Individual Files/Actions/Sub Actions/Designate\|designate]] an [[Individual Files/Introduction/Entities\|enemy]] or other point of interest, and [[Individual Files/Actions/Sub Actions/Use\|use]] your [[Individual Files/Chargen/Weapons/Weapons\|weapons]] on it. You can use as many [[Individual Files/Chargen/Weapons/Weapons\|weapons]] as you have access to, in any order, with one attack [[Individual Files/Gameplay/Activities\|activity]].
