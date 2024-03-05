@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/individual-files/introduction/missions/"}
 ---
 
-You are a frame [[Introduction\|pilot]]. By default, you are an independent mercenary accepting missions from the highest bidder, often simultaneously working for opposing sides of the same conflict. As such, the game tends to operate on a mission basis. Each mission has an objective of sorts, set by the employer.
+You are a frame [[Individual Files/Introduction\|pilot]]. By default, you are an independent mercenary accepting missions from the highest bidder, often simultaneously working for opposing sides of the same conflict. As such, the game tends to operate on a mission basis. Each mission has an objective of sorts, set by the employer.
 
 # Payout
 Missions have a base payout, offered if you succeed at the primary objective. A mission can have secondary or hidden objectives, which provide bonus pay. On the other hand, your employer may reduce your pay if you mismanage an objective.
