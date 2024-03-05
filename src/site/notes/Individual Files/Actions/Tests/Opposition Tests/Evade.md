@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/tests/opposition-tests/evade/"}
 ---
 
-**[Test:](Tests.md)** [Coordination](Skills.md) + [Mobility](Tuning.md)
-**[Opposition:](Opposition.md)** None (default)
-**[Score:](Score.md)** Set your [mark](Mark.md) against hostile [targeting](Target.md).
+**[[Individual Files/Introduction/Tests\|Test:]]** [[Individual Files/Chargen/Skills\|Coordination]] + [[Individual Files/Chargen/Frame/Tuning\|Mobility]]
+**[[Individual Files/Introduction/Tests/Opposition\|Opposition:]]** None (default)
+**[[Individual Files/Introduction/Tests/Score\|Score:]]** Set your [[Individual Files/Introduction/Tests/Mark\|mark]] against hostile [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]].
