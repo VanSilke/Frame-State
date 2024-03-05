@@ -11,6 +11,7 @@
 | Copyright      | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)                                                            |
 | Inspirations   | [Armored Core Franchise](https://en.wikipedia.org/wiki/Armored_Core)<br>[Lancer TTRPG](https://massifpress.com/lancer) |
 | Publishing     | [Obsidian](https://obsidian.md) and other                                                                              |
+
 FRAME STATE RPG is an attempt to produce a lightweight game about mech warfare. 
 
 The PLAYTEST 1 version features minimal fluff and incomplete mechanics. For one, it features no pre-made [frames](Frame) or [NPCs](NPC%20Design), although full rules are included for their creation. PLAYTEST 1 also extensively uses an Obsidian vault for organising files, neglecting traditional rulebook structure in the process.
