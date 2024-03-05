@@ -2,25 +2,25 @@
 {"dg-publish":true,"permalink":"/individual-files/chargen/frame/tuning/"}
 ---
 
-Your [frame](Frame) can be tuned extensively, providing bonus [dice and values](Numbers.md), or enabling new things and strategies. Many tuning options [improve](Improvement.md) certain [statistics](Statistics.md) or [tests](Tests.md).
-* Creating a frame starts by setting its [legs](Legs.md).
-* You begin with 20 [points](Points.md) to distribute across the frame.
+Your [[Individual Files/Chargen/Frame\|frame]] can be tuned extensively, providing bonus [[Individual Files/Introduction/Numbers\|dice and values]], or enabling new things and strategies. Many tuning options [[Individual Files/Introduction/Statistics/Improvement\|improve]] certain [[Individual Files/Introduction/Statistics\|statistics]] or [[Individual Files/Introduction/Tests\|tests]].
+* Creating a frame starts by setting its [[Individual Files/Chargen/Frame/Legs\|legs]].
+* You begin with 20 [[Individual Files/Chargen/Points\|points]] to distribute across the frame.
 
 | Tuning                  | Type              | Use Case                                                                                |
 | ----------------------- | ----------------- | --------------------------------------------------------------------------------------- |
-| Acceleration            | [Val](Numbers.md) | Improves [speed](Speed.md).                                                             |
-| Mobility                | [Die](Numbers.md) | Improves [evasion](Evade.md).                                                           |
-| Armour                  | [Val](Numbers.md) | Improves [integrity](Integrity.md), at the rate of 3 × Armour.                          |
-| Repair Recovery         | [Die](Numbers.md) | Bonus to [repair](Autofix.md).                                                          |
-| Anti-Kinetic Plating    | [Die](Numbers.md) | Bonus to [defence](Defend.md) against [kinetic](Damage%20Type.md) [damage](Damage.md).  |
-| Anti-Energy Plating     | [Die](Numbers.md) | Bonus to [defence](Defend.md) against [energy](Damage%20Type.md) [damage](Damage.md).   |
-| Anti-Blast Plating      | [Die](Numbers.md) | Bonus to [defence](Defend.md) against [blast](Damage%20Type.md) [damage](Damage.md).    |
-| Attitude Control System | [Val](Numbers.md) | Improves [stability](Stability.md).                                                     |
-| System Recovery         | [Die](Numbers.md) | Bonus to [correction](Correct.md).                                                      |
-| Scanner                 | [Val](Numbers.md) | Bonus to [observation](Observe.md). Multiplies [weapon](Weapons.md) [ranges](Range.md). |
-| Energy Supply           | [Val](Numbers.md) | Improves [energy](Energy.md).                                                           |
-| Supply Recovery         | [Die](Numbers.md) | Bonus to [recharge](Recharge.md).                                                       |
-| Recoil Control          | [Val](Numbers.md) | Improves [recoil](Recoil.md).                                                           |
-| Firearm Assist          | [Die](Numbers.md) | Bonus to [targeting](Target.md) with guns.                                              |
-| Melee Assist            | [Die](Numbers.md) | Bonus to [targeting](Target.md) with melee.                                             |
-| Lock Correction         | [Die](Numbers.md) | Bonus to [targeting](Target.md) of drones and missiles.                                 |
+| Acceleration            | [[Individual Files/Introduction/Numbers\|Val]] | Improves [[Individual Files/Chargen/Frame/Frame Statistics/Speed\|speed]].                                                             |
+| Mobility                | [[Individual Files/Introduction/Numbers\|Die]] | Improves [[Individual Files/Actions/Tests/Opposition Tests/Evade\|evasion]].                                                           |
+| Armour                  | [[Individual Files/Introduction/Numbers\|Val]] | Improves [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\|integrity]], at the rate of 3 × Armour.                          |
+| Repair Recovery         | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Token Activities/Autofix\|repair]].                                                          |
+| Anti-Kinetic Plating    | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]] against [[Individual Files/Chargen/Weapons/Damage Type\|kinetic]] [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].  |
+| Anti-Energy Plating     | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]] against [[Individual Files/Chargen/Weapons/Damage Type\|energy]] [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].   |
+| Anti-Blast Plating      | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]] against [[Individual Files/Chargen/Weapons/Damage Type\|blast]] [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].    |
+| Attitude Control System | [[Individual Files/Introduction/Numbers\|Val]] | Improves [[Individual Files/Chargen/Frame/Frame Statistics/Stability\|stability]].                                                     |
+| System Recovery         | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Tests/Opposition Tests/Correct\|correction]].                                                      |
+| Scanner                 | [[Individual Files/Introduction/Numbers\|Val]] | Bonus to [[Individual Files/Actions/Tests/Opposition Tests/Observe\|observation]]. Multiplies [[Individual Files/Chargen/Weapons/Weapons\|weapon]] [[Individual Files/Chargen/Weapons/Weapon Statistics/Range\|ranges]]. |
+| Energy Supply           | [[Individual Files/Introduction/Numbers\|Val]] | Improves [[Individual Files/Chargen/Frame/Frame Statistics/Energy\|energy]].                                                           |
+| Supply Recovery         | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Tests/Opposition Tests/Recharge\|recharge]].                                                       |
+| Recoil Control          | [[Individual Files/Introduction/Numbers\|Val]] | Improves [[Individual Files/Chargen/Frame/Frame Statistics/Recoil\|recoil]].                                                           |
+| Firearm Assist          | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]] with guns.                                              |
+| Melee Assist            | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]] with melee.                                             |
+| Lock Correction         | [[Individual Files/Introduction/Numbers\|Die]] | Bonus to [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]] of drones and missiles.                                 |
