@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/sub-actions/use/"}
 ---
 
-You utilise a [ready](Ready.md) [weapon](Weapons.md) on a [designated](Designate.md), point of interest, following the rules specific to that weapon. The weapon then becomes [exhausted](Exhausted.md).
+You utilise a [[Individual Files/Actions/Weapon States/Ready\|ready]] [[Individual Files/Chargen/Weapons/Weapons\|weapon]] on a [[Individual Files/Actions/Sub Actions/Designate\|designated]], point of interest, following the rules specific to that weapon. The weapon then becomes [[Individual Files/Actions/Weapon States/Exhausted\|exhausted]].
