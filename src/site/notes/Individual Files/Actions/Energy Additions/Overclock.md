@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/energy-additions/overclock/"}
 ---
 
-**Cost:** [Lose](Loss.md) 1 [energy](Energy.md)
+**Cost:** [[Individual Files/Introduction/Statistics/Loss\|Lose]] 1 [[Individual Files/Chargen/Frame/Frame Statistics/Energy\|energy]]
 
-As part of any [activity](Activities.md) that requires [actions](Actions.md), you may add [d8](Numbers.md) to any one [test](Tests.md) performed as part of that activity, with the exception of [impact](Impact.md) and [damage](Damage.md).
+As part of any [[Individual Files/Gameplay/Activities\|activity]] that requires [[Individual Files/Gameplay/Actions\|actions]], you may add [[Individual Files/Introduction/Numbers\|d8]] to any one [[Individual Files/Introduction/Tests\|test]] performed as part of that activity, with the exception of [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impact]] and [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].
