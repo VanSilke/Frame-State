@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/individual-files/actions/token-activities/reload/"}
 ---
 
-**Cost:** [Lose](Loss.md) 1 [action](Actions.md)
+**Cost:** [[Individual Files/Introduction/Statistics/Loss\|Lose]] 1 [[Individual Files/Gameplay/Actions\|action]]
 
-Select one [exhausted](Exhausted.md) weapon. The weapon becomes [ready](Ready.md).
+Select one [[Individual Files/Actions/Weapon States/Exhausted\|exhausted]] weapon. The weapon becomes [[Individual Files/Actions/Weapon States/Ready\|ready]].
