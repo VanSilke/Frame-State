@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/introduction/"}
+{"dg-publish":true,"permalink":"/introduction/","tags":["gardenEntry"]}
 ---
+
 
 | Notice         | Link / Description                                                                                                     |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
