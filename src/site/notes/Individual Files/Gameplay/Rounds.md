@@ -4,7 +4,7 @@
 
 A round is separated into a number of segments. You always begin a [[Individual Files/Introduction/Conflicts\|conflict]] with a friendly segment, unless it’s an ambush.
 
-[[Introduction\|Player]] decide among each other who wants to act when within the friendly segment. [[Individual Files/Introduction/Entities\|NPCs]] controlled by the [[Individual Files/Other/Handling\|handler]] act according to the [[Individual Files/Other/Handling\|handler's]] decisions, but their disposition slots them into a specific overarching segment order.
+[[Individual Files/Introduction\|Player]] decide among each other who wants to act when within the friendly segment. [[Individual Files/Introduction/Entities\|NPCs]] controlled by the [[Individual Files/Other/Handling\|handler]] act according to the [[Individual Files/Other/Handling\|handler's]] decisions, but their disposition slots them into a specific overarching segment order.
 
 # Taking Your Turn
 1. Apply events that occur at the beginning of your turn.
