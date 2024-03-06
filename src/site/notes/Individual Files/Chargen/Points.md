@@ -7,14 +7,14 @@ When creating a character, you operate within point buy, linearly purchasing [[I
 | Category | Starting Points | Upgrade Cost | Maximum Points |
 | -------- | --------------- | ------------ | -------------- |
 | Frame    | 20              | 300          | 60             |
-| Weapons  | 20              | 300          | 30             |
-| Training | 8               | 500          | 13             |
+| Weapons  | 20              | 600          | 30             |
+| Training | 8               | 900          | 13             |
 
 Additionally, each individual [[Individual Files/Chargen/Weapons/Weapons\|weapon]] can have a maximum of 8 points. This is a weapon limit. This too can be increased, up to 13.
 
 | Starting Weapon Limit | Upgrade Cost | Maximum Limit |
 | --------------------- | ------------ | ------------- |
-| 8                     | 500          | 13            |
+| 8                     | 900          | 13            |
 
 # Advancement
 You may use time between missions on training and improving your technology, either by personal research, buying up existing parts, or augmentation surgeries. However you explain it, advancement costs the same per category.
