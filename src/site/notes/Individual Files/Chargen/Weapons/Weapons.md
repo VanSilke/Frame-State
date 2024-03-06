@@ -7,11 +7,10 @@ A weapon is a separately usable [[Individual Files/Chargen/Frame\|frame]] featur
 * You begin with 20 [[Individual Files/Chargen/Points\|points]] to distribute among all weapons.
 * A single weapon can be assigned 8 [[Individual Files/Chargen/Points\|points]].
 
-| Weapon Statistic | Type           | Description                                                                         |
-| ---------------- | -------------- | ----------------------------------------------------------------------------------- |
-| Damage           | [[Individual Files/Introduction/Numbers\|Die]] | Base [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]] (of the weapon's [[Individual Files/Chargen/Weapons/Damage Type\|damage type]]).            |
-| Impact           | [[Individual Files/Introduction/Numbers\|Die]] | Base [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impact]].                                                           |
-| Rapid Fire       | [[Individual Files/Introduction/Numbers\|Val]] | Improves [[Individual Files/Chargen/Weapons/Weapon Statistics/Multifire\|multifire]].                                                    |
-| Damage Property  | -              | One of the weapon's two properties, set by the chosen [[Individual Files/Chargen/Weapons/Damage Type\|damage type]]. |
-| Weapon Property  | -              | One of the weapon's two properties, set by the chosen [[Individual Files/Chargen/Weapons/Weapon Type\|weapon type]]. |
-
+| Weapon Statistic | Type                | Description                                                                            |
+| ---------------- | ------------------- | -------------------------------------------------------------------------------------- |
+| Damage           | [[Individual Files/Introduction/Numbers\|Die]] | Base [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]] (of the weapon's damage type).                              |
+| Impact           | [[Individual Files/Introduction/Numbers\|Die]] | Base [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impact]].                                                            |
+| Rapid Fire       | [[Individual Files/Introduction/Numbers\|Val]] | Improves [[Individual Files/Chargen/Weapons/Weapon Statistics/Multifire\|multifire]].                                                  |
+| Damage Property  | -                   | One of the weapon's two properties, set by the chosen [[Individual Files/Chargen/Weapons/Damage Type\|damage type]]. |
+| Weapon Property  | -                   | One of the weapon's two properties, set by the chosen [[Individual Files/Chargen/Weapons/Weapon Type\|weapon type]]. |
