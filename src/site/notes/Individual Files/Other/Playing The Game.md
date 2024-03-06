@@ -15,14 +15,14 @@ In order to interact with the game world, you dedicate your resources to perform
 
 | Activities                  | Brief                                                                                         |
 | --------------------------- | --------------------------------------------------------------------------------------------- |
+| [[Individual Files/Actions/Token Activities/Survey\|Survey]]       | Initiate [[Individual Files/Actions/Tests/Opposition Tests/Observe\|observation]].                                                         |
+| [[Individual Files/Actions/Token Activities/Stance\|Stance]]       | [[Individual Files/Chargen/Weapons/Weapons\|Weapon]] option for ignoring [[Individual Files/Chargen/Frame/Frame Statistics/Recoil\|recoil]].                             |
 | [[Individual Files/Actions/Token Activities/Attack\|Attack]]       | [[Individual Files/Actions/Sub Actions/Use\|Use]] your [[Individual Files/Chargen/Weapons/Weapons\|weapons]], possibly all simultaneously.                    |
-| [[Individual Files/Actions/Token Activities/Autofix\|Autofix]]     | Initiate [[Individual Files/Actions/Tests/Opposition Tests/Repair\|repair]] using a [[Individual Files/Chargen/Frame/Frame Statistics/Kits\|repair kit]].                               |
+| [[Individual Files/Actions/Token Activities/Reload\|Reload]]       | Restore an [[Individual Files/Actions/Weapon States/Exhausted\|exhausted]] [[Individual Files/Chargen/Weapons/Weapons\|weapon]] to a [[Individual Files/Actions/Weapon States/Ready\|ready]] state. |
 | [[Individual Files/Actions/Token Activities/Fly\|Fly]]             | Perform [[Individual Files/Gameplay/Movement\|movement]] in any way you like.                                        |
 | [[Individual Files/Actions/Token Activities/Move\|Move]]           | [[Individual Files/Actions/Token Activities/Move\|Move]] horizontally.                                                               |
-| [[Individual Files/Actions/Token Activities/Reload\|Reload]]       | Restore an [[Individual Files/Actions/Weapon States/Exhausted\|exhausted]] [[Individual Files/Chargen/Weapons/Weapons\|weapon]] to a [[Individual Files/Actions/Weapon States/Ready\|ready]] state. |
+| [[Individual Files/Actions/Token Activities/Autofix\|Autofix]]     | Initiate [[Individual Files/Actions/Tests/Opposition Tests/Repair\|repair]] using a [[Individual Files/Chargen/Frame/Frame Statistics/Kits\|repair kit]].                               |
 | [[Individual Files/Actions/Token Activities/Stabilise\|Stabilise]] | Initiate attitude [[Individual Files/Actions/Tests/Opposition Tests/Correct\|correction]].                                                 |
-| [[Individual Files/Actions/Token Activities/Stance\|Stance]]       | [[Individual Files/Chargen/Weapons/Weapons\|Weapon]] option for ignoring [[Individual Files/Chargen/Frame/Frame Statistics/Recoil\|recoil]].                             |
-| [[Individual Files/Actions/Token Activities/Survey\|Survey]]       | Initiate [[Individual Files/Actions/Tests/Opposition Tests/Observe\|observation]].                                                         |
 
 # Tests
 
@@ -30,16 +30,16 @@ Very often, you are required to make tests, which involve throwing dice and t
 
 | Tests                     | Brief                                                                                                          |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [[Individual Files/Actions/Tests/Mark Tests/Target\|Target]]     | [[Individual Files/Actions/Tests/Mark Tests/Target\|Hit]] or [[Individual Files/Actions/Tests/Mark Tests/Target\|miss]] your [[Individual Files/Gameplay/Designations\|designation]].                               |
-| [[Individual Files/Actions/Tests/Opposition Tests/Brace\|Brace]]       | Reduce incoming [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impact]].                                                                         |
-| [[Individual Files/Actions/Tests/Opposition Tests/Correct\|Correct]]   | [[Individual Files/Introduction/Statistics/Recovery\|Recover]] [[Individual Files/Chargen/Frame/Frame Statistics/Stability\|stability]].                                                          |
-| [[Individual Files/Actions/Tests/Opposition Tests/Damage\|Damage]]     | Lower a [[Individual Files/Gameplay/Designations\|designation's]] [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\|integrity]].                                        |
-| [[Individual Files/Actions/Tests/Opposition Tests/Defend\|Defend]]     | Reduce incoming [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].                                                                         |
-| [[Individual Files/Actions/Tests/Opposition Tests/Evade\|Evade]]       | Avoid hostile [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]].                                                                        |
-| [[Individual Files/Actions/Tests/Opposition Tests/Impact\|Impact]]     | Lower a [[Individual Files/Gameplay/Designations\|designation's]] [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\|integrity]], building up [[Individual Files/Actions/Frame States/Staggered\|stagger]]. |
 | [[Individual Files/Actions/Tests/Opposition Tests/Observe\|Observe]]   | [[Individual Files/Actions/Frame States/Highlighted\|Highlight]] [[Individual Files/Gameplay/Designations\|things of interest]].                                         |
-| [[Individual Files/Actions/Tests/Opposition Tests/Recharge\|Recharge]] | [[Individual Files/Introduction/Statistics/Recovery\|Recover]] [[Individual Files/Chargen/Frame/Frame Statistics/Energy\|energy]]. Done automatically.                                            |
+| [[Individual Files/Actions/Tests/Mark Tests/Target\|Target]]     | [[Individual Files/Actions/Tests/Mark Tests/Target\|Hit]] or [[Individual Files/Actions/Tests/Mark Tests/Target\|miss]] your [[Individual Files/Gameplay/Designations\|designation]].                               |
+| [[Individual Files/Actions/Tests/Opposition Tests/Impact\|Impact]]     | Lower a [[Individual Files/Gameplay/Designations\|designation's]] [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\|integrity]], building up [[Individual Files/Actions/Frame States/Staggered\|stagger]]. |
+| [[Individual Files/Actions/Tests/Opposition Tests/Damage\|Damage]]     | Lower a [[Individual Files/Gameplay/Designations\|designation's]] [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\|integrity]].                                        |
+| [[Individual Files/Actions/Tests/Opposition Tests/Evade\|Evade]]       | Avoid hostile [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]].                                                                        |
+| [[Individual Files/Actions/Tests/Opposition Tests/Brace\|Brace]]       | Reduce incoming [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impact]].                                                                         |
+| [[Individual Files/Actions/Tests/Opposition Tests/Defend\|Defend]]     | Reduce incoming [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].                                                                         |
 | [[Individual Files/Actions/Tests/Opposition Tests/Repair\|Repair]]     | [[Individual Files/Introduction/Statistics/Recovery\|Recover]] [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\|integrity]].                                                          |
+| [[Individual Files/Actions/Tests/Opposition Tests/Correct\|Correct]]   | [[Individual Files/Introduction/Statistics/Recovery\|Recover]] [[Individual Files/Chargen/Frame/Frame Statistics/Stability\|stability]].                                                          |
+| [[Individual Files/Actions/Tests/Opposition Tests/Recharge\|Recharge]] | [[Individual Files/Introduction/Statistics/Recovery\|Recover]] [[Individual Files/Chargen/Frame/Frame Statistics/Energy\|energy]]. Done automatically.                                            |
 
 
 # Traversal
