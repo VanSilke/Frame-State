@@ -13,9 +13,9 @@ While on a mission, keep track of each [[Individual Files/Actions/Token Activiti
 * Each [[Individual Files/Chargen/Weapons/Weapons\|weapon]] [[Individual Files/Actions/Sub Actions/Use\|use]] costs credits equal to [[Individual Files/Chargen/Points\|points]] used for that [[Individual Files/Chargen/Weapons/Weapons\|weapon]]. If your [[Individual Files/Chargen/Weapons/Weapons\|weapons]] have uneven [[Individual Files/Chargen/Points\|point]] distribution, each [[Individual Files/Chargen/Weapons/Weapons\|weapon]] should be tracked separately.
 * Finally, if you don't finish a mission with full [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\|integrity]], you pay one additional [[Individual Files/Actions/Token Activities/Autofix\|autofix]] fee.
 
-| Mission Cost | Credits                                          |
-| ------------ | ------------------------------------------------ |
-| Autofix      | 50 + Point Cost (of the [[Individual Files/Chargen/Frame\|frame]])          |
+| Mission Cost | Credits                                               |
+| ------------ | ----------------------------------------------------- |
+| Autofix      | 50 + Point Cost (of the [[Individual Files/Chargen/Frame\|frame]])             |
 | Weapon Use   | Point Cost (of the individual [[Individual Files/Chargen/Weapons/Weapons\|weapon]]) |
 
 # Debt
