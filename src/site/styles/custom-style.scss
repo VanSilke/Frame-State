@@ -28,10 +28,12 @@ body {
 	 font-family: 'BIGMACCA', Calibri, Tahoma, sans-serif;
 	}
     }
+	    .navbar-inner {
+        padding-left: 25px;
+    }
+div#tooltip-wrapper {
+    top: 50% !important;
+    left: 50% !important;
+    translate: -50% -50%;
+	}
 }
-  .popover.hover-popover .markdown-preview-view {
-    font-size: var(--popover-font-size);
-	  position: absolute;
-	  bottom: 5%;
-	  right: 5%;
-  }
