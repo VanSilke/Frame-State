@@ -29,8 +29,9 @@ body {
 	}
     }
 }
-  .popover.hover-popover.is-loaded {
-    position: absolute;
-    bottom: 5%;
-    right: 5%;
+  .popover.hover-popover .markdown-preview-view {
+    font-size: var(--popover-font-size);
+	  position: absolute;
+	  bottom: 5%;
+	  right: 5%;
   }
