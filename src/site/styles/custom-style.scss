@@ -1,3 +1,5 @@
+@import()
+
 body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
@@ -11,7 +13,7 @@ body {
     //   color: black;
     //  }
 	h1 {
-	 font-family: BIGMACCA, Calibri, Tahoma, sans-serif;
+	 font-family: 'BIGMACCA', Calibri, Tahoma, sans-serif;
 	}
     background-image: url(https://i.imgur.com/gzDN61i.png);
 	background-repeat: repeat;
@@ -21,5 +23,6 @@ body {
 @media (width <= 850px) {
     main.content.cm-s-obsidian {
         padding-inline: 2em;
+	    font-size: 0.9em;
     }
 }
