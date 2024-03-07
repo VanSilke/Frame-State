@@ -3,10 +3,13 @@
 ---
 
 When creating a character, you operate within point buy, linearly purchasing [[Individual Files/Introduction/Numbers\|dice and values]] with points at the rate of one increase per point. Each advancement category uses its own point pool. You cannot exchange points between pools.
+* [[Individual Files/Chargen/Skills\|Examine pilot skill training.]]
+* [[Individual Files/Chargen/Frame/Tuning\|Examine frame tuning.]]
+* [[Individual Files/Chargen/Weapons/Weapons\|Examine weapon systems.]]
 
 | Category | Starting Points | Upgrade Cost | Maximum Points |
 | -------- | --------------- | ------------ | -------------- |
-| Frame    | 20              | 300          | 60             |
+| Tuning   | 20              | 300          | 60             |
 | Weapons  | 20              | 600          | 30             |
 | Training | 8               | 900          | 13             |
 
