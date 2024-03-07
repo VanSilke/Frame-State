@@ -7,6 +7,7 @@ A lot comes into piloting a ten-metre tall war machine. The most important eleme
 # Frame Statistics
 
 A [[Individual Files/Chargen/Frame\|frame]] has numerous base [[Individual Files/Introduction/Statistics\|statistics]], some of which should be tracked at all times, while others are only used occasionally. A [[Individual Files/Chargen/Frame\|frame's]] [[Individual Files/Chargen/Frame/Legs\|legs]] tend to interact with [[Individual Files/Gameplay/Movement\|movement]] and its [[Individual Files/Chargen/Frame/Tuning\|tuning]] is added to numerous [[Individual Files/Introduction/Statistics\|statistics]] and [[Individual Files/Introduction/Tests\|tests]] of both the [[Individual Files/Chargen/Frame\|frame]] and its [[Individual Files/Chargen/Weapons/Weapons\|weapons]].
+* [[Individual Files/Chargen/Frame\|Learn more about frame design.]]
 
 | Frame Statistics            | Brief                                                                                                                                                                                                                                                                                      |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -20,13 +21,21 @@ A [[Individual Files/Chargen/Frame\|frame]] has numerous base [[Individual Fi
 # Weapons Use
 
 When [[Individual Files/Actions/Sub Actions/Use\|using]] [[Individual Files/Chargen/Weapons/Weapons\|weapons]], you are required to think, at least to some degree, strategically. You can use all [[Individual Files/Chargen/Weapons/Weapons\|weapons]] during a single [[Individual Files/Actions/Token Activities/Attack\|attack]] [[Individual Files/Gameplay/Activities\|activity]], but must [[Individual Files/Actions/Token Activities/Reload\|reload]] each [[Individual Files/Chargen/Weapons/Weapons\|weapon]] separately after each [[Individual Files/Actions/Sub Actions/Use\|use]]. [[Individual Files/Chargen/Weapons/Weapon Type\|Weapon types]] and [[Individual Files/Chargen/Weapons/Damage Type\|damage types]] enable different strategies, and [[Individual Files/Chargen/Weapons/Weapon Statistics/Multifire\|multifire]] adds further [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]] options.
+* [[Individual Files/Chargen/Weapons/Weapons\|Learn more about weapons design.]]
+* [[Individual Files/Gameplay/Offence\|Learn more about offence.]]
 
-| Weapon Statistics               | Brief                                                                             |
-| ------------------------------- | --------------------------------------------------------------------------------- |
-| [[Individual Files/Chargen/Weapons/Weapon Type\|Weapon Type]] | Sets numerous basic functions and properties.                                     |
-| [[Individual Files/Chargen/Weapons/Damage Type\|Damage Type]] | Sets compared [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]] and another property.                        |
-| [[Individual Files/Chargen/Weapons/Weapon Statistics/Range\|Range]]             | How far out the [[Individual Files/Chargen/Weapons/Weapons\|weapon]] can safely target.                         |
-| [[Individual Files/Chargen/Weapons/Weapon Statistics/Multifire\|Multifire]]     | Heightens [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]] accuracy and enhances [[Individual Files/Gameplay/Offence\|offence]]. |
+| Weapon Base Choices             | Brief                                                      |
+| ------------------------------- | ---------------------------------------------------------- |
+| [[Individual Files/Chargen/Weapons/Weapon Type\|Weapon Type]] | Sets numerous basic functions and properties.              |
+| [[Individual Files/Chargen/Weapons/Damage Type\|Damage Type]] | Sets compared [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]] and another property. |
+
+| Weapon Statistics           | Brief                                                                             |
+| --------------------------- | --------------------------------------------------------------------------------- |
+| [[Individual Files/Actions/Tests/Opposition Tests/Impact\|Impact]]       | Used for [[Individual Files/Gameplay/Offence\|dealing impact]].                                          |
+| [[Individual Files/Actions/Tests/Opposition Tests/Damage\|Damage]]       | Used for [[Individual Files/Gameplay/Offence\|dealing damage]].                                          |
+| [[Individual Files/Chargen/Weapons/Weapon Statistics/Range\|Range]]         | How far out the [[Individual Files/Chargen/Weapons/Weapons\|weapon]] can safely target.                         |
+| [[Individual Files/Chargen/Weapons/Weapon Statistics/Multifire\|Multifire]] | Heightens [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]] accuracy and enhances [[Individual Files/Gameplay/Offence\|offence]]. |
+| Properties                  | Set by the [[Individual Files/Chargen/Weapons/Weapon Type\|weapon type]] and [[Individual Files/Chargen/Weapons/Damage Type\|damage type]].   |
 
 # Energy Use
 
