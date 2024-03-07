@@ -6,6 +6,11 @@ Once you have [[Individual Files/Other/Making A Pilot\|made your character]], it
 
 # Gameplay Loop
 The standard gameplay loop consists of [[Individual Files/Introduction\|player pilots]] accepting [[Individual Files/Introduction/Missions\|missions]] from their [[Individual Files/Other/Handling\|handler]]. Each [[Individual Files/Introduction/Missions\|mission]] consists of one or more [[Individual Files/Gameplay/Map\|maps]], and each [[Individual Files/Gameplay/Map\|map]] is composed of one or more [[Individual Files/Introduction/Conflicts\|conflicts]]. Once a mission is complete, the [[Individual Files/Introduction\|player pilots]] return to their narratively managed base of operations, where they enjoy the [[Individual Files/Introduction/Missions\|mission's]] [[Individual Files/Introduction/Credits\|bounty]] (reduced by the maintenance costs).
+* [[Individual Files/Introduction/Missions\|Examine rules on missions, including payout and fees.]]
+* [[Individual Files/Introduction/Conflicts\|Examine rules on conflicts.]]
+* [[Individual Files/Gameplay/Rounds\|Examine rules on rounds.]]
+* [[Individual Files/Introduction/Entities\|Examine entity handling.]]
+
 
 Note that both [[Individual Files/Introduction\|player pilots]] and NPCs are [[Individual Files/Introduction/Entities\|entities]] of sort, and interact with each other similarly, with certain caveats.
 
@@ -26,7 +31,7 @@ In order to interact with the game world, you dedicate your resources to perform
 
 # Tests
 
-Very often, you are required to make tests, which involve throwing dice and tallying up values. This is where your frame's design and character choices come into play the most.
+Very often, you are required to make [[Individual Files/Introduction/Tests\|tests]], which involve [[Individual Files/Introduction/Numbers\|throwing dice and tallying up values]]. This is where your [[Individual Files/Chargen/Frame\|frame's design]] and [[Individual Files/Chargen/Points\|character choices]] come into play the most.
 
 | Tests                     | Brief                                                                                                          |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -44,3 +49,7 @@ Very often, you are required to make tests, which involve throwing dice and t
 
 # Traversal
 When [[Individual Files/Gameplay/Movement\|moving]] through the [[Individual Files/Gameplay/Map\|map]], you use both standard [[Individual Files/Actions/Token Activities/Move\|movement]] and [[Individual Files/Actions/Token Activities/Fly\|flight]], as well as gain (or are constrained by) traversal options based on your [[Individual Files/Chargen/Frame/Legs\|legs]] of choice. Your [[Individual Files/Gameplay/Sight\|line of sight]] and [[Individual Files/Actions/Token Activities/Survey\|surveying]] tests provide an image of the environment. The [[Individual Files/Gameplay/Map\|map]] is separated into [[Individual Files/Gameplay/Map\|hexes]], many of which count as [[Individual Files/Gameplay/Obstacles\|obstacles]], which must be navigated around.
+* [[Individual Files/Gameplay/Map\|Examine rules on maps, ranges and distances.]]
+* [[Individual Files/Gameplay/Movement\|Examine rules on movement.]]
+* [[Individual Files/Gameplay/Obstacles\|Examine rules on obstacles.]]
+* [[Individual Files/Gameplay/Sight\|Examine rules on lines of sight.]]
