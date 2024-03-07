@@ -9,7 +9,7 @@ Your [[Individual Files/Chargen/Frame\|frame]] can be tuned extensively, providi
 | Tuning                  | Type                 | Use Case                                                                                      |
 | ----------------------- | -------------------- | --------------------------------------------------------------------------------------------- |
 | Acceleration            | [[Individual Files/Introduction/Numbers\|Val]]  | Improves [[Individual Files/Chargen/Frame/Frame Statistics/Speed\| speed]].                                                                |
-| Mobility                | [[Individual Files/Introduction/Numbers\| Die]] | Improves [[Evade.md    \|evasion]].                                                           |
+| Mobility                | [[Individual Files/Introduction/Numbers\| Die]] | Improves [[Individual Files/Actions/Tests/Opposition Tests/Evade\|evasion]].                                                               |
 | Armour                  | [[Individual Files/Introduction/Numbers\|Val]]  | Improves [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\| integrity]], at the rate of 3 × Armour.                             |
 | Repair Recovery         | [[Individual Files/Introduction/Numbers\| Die]] | Bonus to [[Individual Files/Actions/Token Activities/Autofix\|autofix]].                                                             |
 | Anti-Kinetic Plating    | [[Individual Files/Introduction/Numbers\| Die]] | Bonus to [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]] against [[Individual Files/Chargen/Weapons/Damage Type\|kinetic]] [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].    |
