@@ -3,6 +3,7 @@
 ---
 
 In order to make a rudimentary character, you are merely required to attribute a number of [[Individual Files/Chargen/Points\|points]] across various subdivisions of what makes up a functional mechanized warrior of the future.
+* [[Individual Files/Chargen/Points\|Examine point buy.]]
 
 # Narrative Side
 When you begin your career, make sure to assign some amount of background information to your character. This segment of character creation can be as brief, or as extensive as you yourself make it out to be. The richer your pilot's history is, the more attachment you feel with them and their struggles.
