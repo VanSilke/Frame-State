@@ -17,13 +17,13 @@ A blank is the lack of die, or a value of 0. In some cases, it means you simply 
 # Point Buy
 Commonly throughout the system, you will interact with point buy, in which you purchase a value or die with a number of points. The point buy cost of dice and values is set by the table and is universal.
 
-| Cost | Dice | Vals | Test Difficulty    |
-| ---- | ---- | ---- | ------------------ |
-| 0    | -    | 0    | -                  |
-| 1    | d1   | 1    | Lowest Difficulty  |
-| 2    | d2   | 2    | Very easy          |
-| 3    | d4   | 3    | Easy               |
-| 4    | d6   | 4    | Standard           |
-| 5    | d8   | 5    | Hard               |
-| 6    | d10  | 6    | Very hard          |
-| 7    | d12  | 7    | Highest difficulty |
+| Cost | Dice | Vals |
+|:---:|:---:|:---:|
+| 0 | - | 0 |
+| 1 | d1 | 1 |
+| 2 | d2 | 2 |
+| 3 | d4 | 3 |
+| 4 | d6 | 4 |
+| 5 | d8 | 5 |
+| 6 | d10 | 6 |
+| 7 | d12 | 7 |
