@@ -6,7 +6,7 @@ A prop hex is the same as terrain hex, except it can be destroyed with enough ef
 
 The amount of effort necessary to destroy a prop hex is variable per prop, and mostly left up to the handler if not specified. If you are occupying a prop that is destroyed, you begin to [[Individual Files/Gameplay/Falling\|fall]]. Props specify whether you can [[Individual Files/Gameplay/Movement\|move vertically]] below them.
 
-In order to design a destructible prop, assign a single value to [[Individual Files/Chargen/Frame/Frame Statistics/Integrity\|integrity]] and [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]] which is applied universally against all [[Individual Files/Chargen/Weapons/Damage Type\|damage types]]. A prop has no [[Individual Files/Actions/Tests/Opposition Tests/Evade\|evasion]] [[Individual Files/Introduction/Tests/Score\|score]] or [[Individual Files/Chargen/Frame/Frame Statistics/Stability\|stability]]. 
+In order to design a destructible prop, assign a single value to [[Individual Files/Character Generation/Frame/Frame Statistics/Integrity\|integrity]] and [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defences]] which are applied universally against all [[Individual Files/Character Generation/Weapons/Damage Type\|damage types]]. A prop cannot [[Individual Files/Actions/Tests/Opposition Tests/Evade\|evade]].
 
 | Value | Example           |
 | ----- | ----------------- |
