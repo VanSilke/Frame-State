@@ -32,3 +32,8 @@ The effective design of a frame consists of a body and [[Individual Files/Charac
 The body has a leg type, which both sets its main [[Individual Files/Gameplay/Movement\|movement]] and special properties (if any), and simply describes its general shape. The body can be extensively tuned with points between [[Individual Files/Introduction/Missions\|missions]]. 
 
 In addition to [[Individual Files/Character Generation/Frame/Legs\|legs]] and [[Individual Files/Character Generation/Frame/Tuning\|tuning]], a frame is outfitted with up to four [[Individual Files/Character Generation/Weapons/Weapons\|weapons]]. Each [[Individual Files/Character Generation/Weapons/Weapons\|weapon]] is designed with an individual [[Individual Files/Character Generation/Points\|point maximum]], but all [[Individual Files/Character Generation/Points\|points]] spent on any one weapon draw from the same pool.
+
+# Humanoid Design
+Frames have a tendency to look humanoid, even if they slide on tank threads or have four or more legs. Pilot - frame integration dictates that a human works best in a machine that best describes them, and as such, the frame is no more than an elaborate, gigantic exoskeleton for the pilot inside.
+
+As such, a frame's [[Individual Files/Character Generation/Weapons/Weapons\|weapons]] are divided into held, and shoulder-mounted. Held weapons can be [[Individual Files/Actions/Weapon States/Holstered\|holstered]] to enable finer manipulation of the environment, while shoulder weapons cannot.
