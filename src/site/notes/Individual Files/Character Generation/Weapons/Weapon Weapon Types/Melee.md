@@ -8,4 +8,4 @@
 **[[Individual Files/Character Generation/Frame/Frame Statistics/Recoil\|Recoil:]]** [[Individual Files/Actions/Sub Actions/Discharge\|On Discharge]]
 **Property:** Force [[Individual Files/Introduction/Numbers\|(value)]]
 The force [[Individual Files/Introduction/Numbers\|value]] is added to both [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impact]] and [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]] on [[Individual Files/Actions/Tests/Mark Tests/Target\|hit]] during [[Individual Files/Actions/Sub Actions/Discharge\|discharge]].
-**Special:** Range is not multiplied by the [[Individual Files/Character Generation/Frame/Tuning\| scanner]] [[Individual Files/Introduction/Numbers\|value]].
+**Special:** Range is not multiplied by the [[Individual Files/Character Generation/Frame/Tuning\| scanner]] [[Individual Files/Introduction/Numbers\|value]]. Cannot be installed on the mounted slots.
