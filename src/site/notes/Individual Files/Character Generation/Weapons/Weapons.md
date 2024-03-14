@@ -20,8 +20,8 @@ Weapons are divided into three categories: held, mounted and integrated.
 - Your held and integrated weapons share slots. You must choose whether to have two held slots, two integrated slots, or one of each.
 - A held weapon can be [[Individual Files/Actions/Weapon States/Holstered\|holstered]] for easy and elaborate manipulation.
 
-|  Category  | Further Benefit                                                                           |
-| :--------: | ----------------------------------------------------------------------------------------- |
-|    Held    | The weapon is extremely easy to handle. Add d8 to [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]] [[Individual Files/Introduction/Tests\|tests]]. |
-|  Mounted   | The weapon has 2 additional [[Individual Files/Character Generation/Points\|points]] to assign (for a maximum of 15).           |
-| Integrated | The weapon has 2 additional [[Individual Files/Character Generation/Points\|points]] to assign (for a maximum of 15).           |
+|  Category  | Further Benefit                                                                                                                            |
+| :--------: | ------------------------------------------------------------------------------------------------------------------------------------------ |
+|    Held    | The weapon is extremely easy to handle. Add d8 to [[Individual Files/Actions/Tests/Mark Tests/Target\|targeting]] [[Individual Files/Introduction/Tests\|tests]] which use [[Individual Files/Character Generation/Frame/Tuning\|Aim Assist or Servo Assist]]. |
+|  Mounted   | The weapon has 2 additional [[Individual Files/Character Generation/Points\|points]] to assign (for a maximum of 15).                                                            |
+| Integrated | The weapon has 2 additional [[Individual Files/Character Generation/Points\|points]] to assign (for a maximum of 15).                                                            |
