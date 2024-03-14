@@ -13,10 +13,10 @@ In order to install an expansion into your [[Individual Files/Character Generati
 |  II  |       2        |     640     |
 | III  |       3        |    1280     |
 
-* **Installation:** Quantity of [[Individual Files/Character Generation/Points\|points]] required to install the expansion, measured in tiers. 
-* ***Cost:** Activation cost of the expansion, if any. Usually, an expansion requires at least 1 point of [[Individual Files/Character Generation/Frame/Frame Statistics/Energy\|energy]].
-* **Trigger:** Expansion modules can have a trigger, in which case they can be used only within specific circumstances set by that trigger, even if it occurs outside of your [[Individual Files/Gameplay/Rounds\|turn]].
-* **NPC:** If pertinent, the NPC tab describes how NPC units use their modules.
+- **Installation:** Quantity of [[Individual Files/Character Generation/Points\|points]] required to install the expansion, measured in tiers. 
+- **Cost:** Activation cost of the expansion, if any. Usually, an expansion requires at least 1 point of [[Individual Files/Character Generation/Frame/Frame Statistics/Energy\|energy]].
+- **Trigger:** Expansion modules can have a trigger, in which case they can be used only within specific circumstances set by that trigger, even if it occurs outside of your [[Individual Files/Gameplay/Rounds\|turn]].
+- **NPC:** If pertinent, the NPC tab describes how NPC units use their modules.
 
 # Overheating
 Some modules cause you to [[Individual Files/Actions/Frame States/Overheated\|overheat]]. As a result, it temporarily disables all module use until your [[Individual Files/Character Generation/Frame\|frame]] recovers from this state.
@@ -38,6 +38,7 @@ Some modules cause you to [[Individual Files/Actions/Frame States/Overheated\|ov
 |      [[Individual Files/Character Generation/Expansion Modules/Tier I/Smokescreen Module\|Smokescreen Module]]      |  I   | Cover an area in smoke that breaks up detection.      |
 |      [[Individual Files/Character Generation/Expansion Modules/Tier I/Spare Seat Module\|Spare Seat Module]]       |  I   | Extra passenger space.                                |
 |        [[Individual Files/Character Generation/Expansion Modules/Tier I/Stance Module\|Stance Module]]         |  I   | Reduce recoil.                                        |
+|     [[Individual Files/Character Generation/Expansion Modules/Tier I/Weapon Switch Module\|Weapon Switch Module]]     |  I   | Carry additional swappable weapons.                   |
 |     [[Individual Files/Character Generation/Expansion Modules/Tier II/Assault Burst Module\|Assault Burst Module]]     |  II  | Cause a large electric discharge.                     |
 |      [[Individual Files/Character Generation/Expansion Modules/Tier II/Bounce Back Module\|Bounce Back Module]]      |  II  | Avoid stagger.                                        |
 |      [[Individual Files/Character Generation/Expansion Modules/Tier II/Pulse Field Module\|Pulse Field Module]]      |  II  | Generate an impassable field of force.                |
