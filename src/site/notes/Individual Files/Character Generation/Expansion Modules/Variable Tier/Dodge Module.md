@@ -20,6 +20,6 @@ You may dodge unprompted on your turn. While this won't help you evade anything,
 
 # NPC
 A module installed on an NPC functions differently in relation to how it modifies the [[Individual Files/Actions/Tests/Opposition Tests/Evade\|evasion]] [[Individual Files/Introduction/Tests\|test]].
-* At Tier I, add 1 to the [[Individual Files/Introduction/Tests\|test]].
-* At Tier II, add 2 to the [[Individual Files/Introduction/Tests\|test]].
-* At Tier III, add 3 to the [[Individual Files/Introduction/Tests\|test]].
+* At Tier I, add 1 to the [[Individual Files/Introduction/Tests\|test]], to a maximum of 8.
+* At Tier II, add 2 to the [[Individual Files/Introduction/Tests\|test]], to a maximum of 10.
+* At Tier III, add 3 to the [[Individual Files/Introduction/Tests\|test]], to a maximum of 12.
