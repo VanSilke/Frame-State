@@ -19,6 +19,6 @@ The exception are [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impa
 
 # NPC
 A module installed on an NPC functions differently.
-* At Tier I, add 1 to the [[Individual Files/Introduction/Tests\|test]].
-* At Tier II, add 2 to the [[Individual Files/Introduction/Tests\|test]].
-* At Tier III, add 3 to the [[Individual Files/Introduction/Tests\|test]].
+* At Tier I, add 1 to the [[Individual Files/Introduction/Tests\|test]], to a maximum of 8.
+* At Tier II, add 2 to the [[Individual Files/Introduction/Tests\|test]], to a maximum of 10.
+* At Tier III, add 3 to the [[Individual Files/Introduction/Tests\|test]], to a maximum of 12.
