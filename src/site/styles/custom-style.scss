@@ -12,11 +12,7 @@ body {
     //  h1 {
     //   color: black;
     //  }
-.markdown-rendered ul, .markdown-rendered ol {
-    margin-block-start: -0.5em;
-    margin-block-end: 0px;
-}
-	
+
        .content.cm-s-obsidian {
 	       font-family: 'Exo 2.0', sans-serif;
 	}
@@ -27,7 +23,11 @@ body {
 	background-repeat: repeat;
 	background-size: contain;
 }
-
+.markdown-rendered ul, .markdown-rendered ol {
+    margin-block-start: -0.5em;
+    margin-block-end: 0px;
+}
+	
 @media (width <= 850px) {
     main.content.cm-s-obsidian {
         padding-inline: 2em;
