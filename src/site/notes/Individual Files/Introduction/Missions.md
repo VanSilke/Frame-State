@@ -16,7 +16,7 @@ While on a mission, keep track of each [[Individual Files/Actions/Activities/Aut
 | Mission Cost | Credits                                                          |
 | ------------ | ---------------------------------------------------------------- |
 | Autofix      | 50 + Point Cost (of the [[Individual Files/Character Generation/Frame\|frame]] [[Individual Files/Character Generation/Frame/Tuning\|tuning]]). |
-| Weapon Use   | Point Cost (of the individual [[Individual Files/Character Generation/Weapons/Weapons\|weapon]]).           |
+| Weapon Use   | Point Cost (of the individual [[Individual Files/Character Generation/Weapons/Weapons\|weapon]]).              |
 
 # Debt
 If the costs are too high, you may go into a negative, which reduces your currency instead of adding to it, potentially getting you into debt. Debt is more of a narrative device, since you can still use assembly however you like, but it renders you unable to advance your stats until you go out of the negative and earn usable money.
