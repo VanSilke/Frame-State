@@ -5,13 +5,13 @@
 FRAME STATE RPG is an attempt to produce a lightweight game about mech warfare. 
 * [See Google Sheet for a character sheet (out of date!).](https://docs.google.com/spreadsheets/d/1ZKpCgH2fd1nbUWRz3xMhdWFkJTIbK3ZiY1GRk2w310Y/edit?usp=sharing)
 
-The PLAYTEST 1 version features minimal fluff and incomplete mechanics. For one, it features no pre-made [[Individual Files/Character Generation/Frame\|frames]] or [[Individual Files/Introduction/NPC Design\|NPCs]], although full rules are included for their creation. PLAYTEST 1 also extensively uses an Obsidian vault for organising files, neglecting traditional rulebook structure in the process.
+The PLAYTEST 1.1 version features minimal fluff and incomplete mechanics. For one, it features no pre-made [[Individual Files/Character Generation/Frame\|frames]] or [[Individual Files/Introduction/NPC Design\|NPCs]], although full rules are included for their creation. PLAYTEST 1.1 also extensively uses an Obsidian vault for organising files, neglecting traditional rulebook structure in the process.
 
 Finally, the author does not warrant that the game will be in any way balanced during any of the PLAYTEST versions. As a result, some artefacts may occur, such as inability to get by with [[Individual Files/Introduction/Missions\|mission]] [[Individual Files/Introduction/Credits\|rewards]] by the [[Individual Files/Other/Handling\|minimum tally]] alone.
 
 Current pitfalls, which you must keep in mind when playing: 
 * only one official mark test
-* absence of "generic" tests like "move this boulder here"
+* absence of "generic" test examples
 * completely unknown conflict balance
 
 # Players
