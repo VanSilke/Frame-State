@@ -18,6 +18,7 @@ The choices can be made in any order, but a standard creation order can be found
 2. Choose up to four [[Individual Files/Character Generation/Weapons/Weapons\|weapons]]. This sets your basic playstyle, the things you'd rather do or avoid doing during [[Individual Files/Introduction/Conflicts\|conflicts]].
 	* You begin with 20 [[Individual Files/Character Generation/Weapons/Weapons\|weapon]] [[Individual Files/Character Generation/Points\|points]] to assign.
 	* Keep in mind, that each [[Individual Files/Character Generation/Weapons/Weapons\|weapon]] has its own 8 [[Individual Files/Character Generation/Points\|point]] limit, but all [[Individual Files/Character Generation/Weapons/Weapons\|weapon]] [[Individual Files/Character Generation/Points\|points]] draw from the same [[Individual Files/Character Generation/Points\|point pool]].
+	* Keep track of slots in which you install your [[Individual Files/Character Generation/Weapons/Weapons\|weapons]] to draw further benefits.
 3. Make a choice of your [[Individual Files/Character Generation/Frame\|frame's]] [[Individual Files/Character Generation/Frame/Legs\|legs]]. This sets your usual [[Individual Files/Gameplay/Movement\|traversal]] options and perks, and further enhances your playstyle.
 4. Begin [[Individual Files/Character Generation/Frame/Tuning\|tuning]] your frame.
 	* You begin with 20 [[Individual Files/Character Generation/Frame/Tuning\|tuning]] [[Individual Files/Character Generation/Points\|points]] to assign. These points will accentuate, or make up for your previous choices.
