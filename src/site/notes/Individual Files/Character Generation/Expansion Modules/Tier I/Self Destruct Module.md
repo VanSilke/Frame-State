@@ -15,4 +15,4 @@ Unless you have the means of somehow surviving the blast, you die along with the
 Finally, you can activate the module on your own by pressing the ominous red button, in which case the destruction occurs at the beginning of your next turn but you can still act to eject or do something else.
 
 # NPCs
-The explosion causes 5 points of [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impact]] and [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].
+The explosion causes 6 points of [[Individual Files/Actions/Tests/Opposition Tests/Impact\|impact]] and [[Individual Files/Actions/Tests/Opposition Tests/Damage\|damage]].
