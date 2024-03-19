@@ -55,3 +55,16 @@ As a practical example, consider building an enemy [[Individual Files/Character 
 |     8     |     2      |      9       |
 |     9     |     2      |      11      |
 |    10     |     3      |      14      |
+# Values Instead of Dice
+NPCs make heavy use of [[Individual Files/Introduction/Numbers\|values]] instead of [[Individual Files/Introduction/Numbers\|dice]]. When building an NPC, keep this in mind.
+
+First, choose the highest [[Individual Files/Introduction/Numbers\|die]] and take its corresponding [[Individual Files/Introduction/Numbers\|value]] from the point buy table (5 for d8, 7 for d12 etc.). This is the default.
+
+Next, take the second highest [[Individual Files/Introduction/Numbers\|die]] (which is the same as highest or lower) and set the [[Individual Files/Introduction/Numbers\|value]] you gain to the maximum side of the [[Individual Files/Introduction/Numbers\|die]] (4 for d4, 6 for d6, 8 for d8 and so on). If the roll uses more dice, you can disregard the rest.
+
+Consider the following practical examples, in which you tally up the NPC pilot's [[Individual Files/Character Generation/Skills\|operation skill]] and specific [[Individual Files/Character Generation/Frame/Tuning\|plating tuning]] to determine their static [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]].
+- (d8 and d4) results in the default 5. The lower die is too low to affect the outcome.
+- (d8 and d6) results in 6. The lower die just about manages to increase the outcome.
+- (d8 and d8) results in 8. As both dice are even, this results in the general maximum.
+- (d12 and d10) results in 10, as it benefits from the maximum of the lower die.
+- (d12 and d12) results in 12 by analogy, and is the highest the NPC can have without the addition via raw [[Individual Files/Introduction/Numbers\|values]] which were not converted from [[Individual Files/Introduction/Numbers\|dice]].
