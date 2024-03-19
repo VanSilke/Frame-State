@@ -60,7 +60,7 @@ NPCs make heavy use of [[Individual Files/Introduction/Numbers\|values]] instead
 
 First, choose the highest [[Individual Files/Introduction/Numbers\|die]] and take its corresponding [[Individual Files/Introduction/Numbers\|value]] from the point buy table (5 for d8, 7 for d12 etc.). This is the default.
 
-Next, take the second highest [[Individual Files/Introduction/Numbers\|die]] (which is the same as highest or lower) and set the [[Individual Files/Introduction/Numbers\|value]] you gain to the maximum side of the [[Individual Files/Introduction/Numbers\|die]] (4 for d4, 6 for d6, 8 for d8 and so on). If the roll uses more dice, you can disregard the rest.
+Next, take the second highest [[Individual Files/Introduction/Numbers\|die]] and set the [[Individual Files/Introduction/Numbers\|value]] you gain to the maximum side of the [[Individual Files/Introduction/Numbers\|die]] (4 for d4, 6 for d6, 8 for d8 and so on). If the roll uses more dice, you can disregard the rest.
 
 Consider the following practical examples, in which you tally up the NPC pilot's [[Individual Files/Character Generation/Skills\|operation skill]] and specific [[Individual Files/Character Generation/Frame/Tuning\|plating tuning]] to determine their static [[Individual Files/Actions/Tests/Opposition Tests/Defend\|defence]].
 - (d8 and d4) results in the default 5. The lower die is too low to affect the outcome.
