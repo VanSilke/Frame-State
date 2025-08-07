@@ -9,9 +9,9 @@ The tests are Pilot-facing at all times. This means, that Pilots always roll dur
 
 
 
-| Term         | Brief         |
-| ------------ | ------------- |
-| Mark     | 
+| Term | Brief     |
+| ---- | --------- |
+| Mark | 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-1-first-steps/tests-folder/mark/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -21,7 +21,7 @@ A mark is a test value set by the Handler.
 - If your score is above this value, you "hit the mark", otherwise you "miss the mark", with variable outcome on a draw and extreme outcome on a critical or fumble.
 
 </div></div>
-     |
+ |
 
 
 
@@ -33,85 +33,15 @@ A mark is a test value set by the Handler.
 
 
 
-| Term         | Brief         |
-| ------------ | ------------- |
-| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Mark\|Mark]]     | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-1-first-steps/tests-folder/mark/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-A mark is a test value set by the Handler.
-- If your score is above this value, you "hit the mark", otherwise you "miss the mark", with variable outcome on a draw and extreme outcome on a critical or fumble.
-
-</div></div>
-     |
-| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Score\|Score]]    | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-1-first-steps/tests-folder/score/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-A score is a test value calculated by summing the natural result and modifiers. 
-- The goal of a test is to generate the highest score.
-
-</div></div>
-    |
-| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Ace\|Ace]]      | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-1-first-steps/tests-folder/ace/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-An ace is a test event in which a Pilot has rolled the maximum possible natural result.
-- On an ace, add a modifier of +2 to the score.
-- Only Pilots can ace.
-- If the score has multiple dice, any die can cause an ace, but only one ace counts.
-
-</div></div>
-      |
-| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Critical\|Critical]] | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-1-first-steps/tests-folder/critical/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-When a Pilot proactively hits the mark by 2 or more, they get a critical. It tends to provide results superior to a mere success.
-- You can't get a critical on a reactive test.
-
-</div></div>
- |
-| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Fumble\|Fumble]]   | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-1-first-steps/tests-folder/fumble/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-When a Pilot reactively misses the mark by 2 or more, they get a fumble. It indicates results even worse for the Pilot than a failure.
-- You can't fumble on a proactive test.
-
-</div></div>
-   |
-| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Hit\|Hit]]  | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-1-first-steps/tests-folder/hit/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-When the Pilot hits the mark in a test, the events that follow tend to be beneficial.
-
-</div></div>
-  |
-| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Miss\|Miss]]  | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-1-first-steps/tests-folder/miss/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-When the Pilot misses the mark on a test, the following events tend to be detrimental.
-
-</div></div>
-  |
+| Term         | Brief |
+| ------------ | ----- |
+| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Mark\|Mark]]     |       |
+| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Score\|Score]]    |       |
+| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Ace\|Ace]]      |       |
+| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Critical\|Critical]] |       |
+| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Fumble\|Fumble]]   |       |
+| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Hit\|Hit]]      |       |
+| [[Document Listing/Chapters/Folder 1 - First Steps/Tests Folder/Miss\|Miss]]     |       |
 
 
 
