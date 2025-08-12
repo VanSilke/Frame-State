@@ -11,3 +11,4 @@ A tank frame is heavier and moves on tank threads.
 | Stability       |  15 |
 | Speed           |   2 |
 | Recoil          |   5 |
+| Armour          |   3 |

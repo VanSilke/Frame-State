@@ -13,3 +13,4 @@ A hover frame  is capable of near-indefinite flight, and usually stays above gro
 | Stability       |  12 |
 | Speed           |   3 |
 | Recoil          |   4 |
+| Armour          |   2 |

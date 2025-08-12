@@ -2,183 +2,91 @@
 {"dg-publish":true,"permalink":"/document-listing/chapters/folder-4-assembly/weapon/"}
 ---
 
-A weapon is a separately usable frame feature, which is usually governed by its own properties based on damage type and weapon type, which set the weapon's unique rules.
+A weapon is a separately usable frame feature, which is usually governed by its own properties based on damage type and tags, which set the weapon's unique rules.
 
 # Weapon Tiers
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-4-assembly/weapon-folder/weapon-tiers/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-The strength of a weapon is measured in tiers. Higher weapon tiers are slower and more expensive, but generally hit harder. They also have more points to spend on the properties of the weapon in question.
-- Each weapon property has its own attribute, which can be increased with property points from 0 upward.
-- Weapon type and damage type describe what each of the two properties actually do with the weapon.
 
-| Tier |     Use Cost      | Damage | Impact | Property Pts. |
-| :--: | :---------------: | :----: | :----: | :-----------: |
-|  I   |      1 step       |   d4   |   1    |       1       |
-|  II  |      2 steps      |   d6   |   2    |       2       |
-| III  | 2 steps; 1 energy |   d8   |   3    |       3       |
+The strength of a weapon is measured in tiers. Higher weapon tiers are slower and more expensive, but generally hit harder. They also have more points to spend on the tags of the weapon in question.
+- Weapon tags usually have up to three tiers. Unique tags have a tier specified in parentheses.
+- Damage type grants the weapon an additional property thematically unique to the damage type.
+
+| Tier |   Base Use Cost   | Base Damage | Base Range | Tag Points |
+| :--: | :---------------: | :---------: | :--------: | :--------: |
+|  I   |      1 step       |     d4      |     5      |     3      |
+|  II  |      2 steps      |     d6      |     7      |     5      |
+| III  | 2 steps; 1 energy |     d8      |     9      |     7      |
+# Weapon Types
+Based on the general weapon type, the base is modified.
+
+| Weapon Type | Targeting Bonus |          Attribute Benefit          | Caveat                                                                                                                                            |
+| :---------: | --------------- | :---------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    Melee    | Servo Assist    |  Add Servo Assist value to damage.  | The weapon always has a range of 1, and cannot be modified outside of effects that specify melee.                                                 |
+|   Shooter   | Aim Assist      |                  -                  | -                                                                                                                                                 |
+|   Lock-on   | Lock Correction | Add Lock Correction value to range. | The weapon's minimum range value is moved by Lock Correction. Using the weapon below the minimum range does not add Lock Correction to targeting. |
 
 
 </div></div>
 
-# Weapon Type
+# Weapon Tags
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-The weapon type describes the general use case of a weapon. Further, targeting tests tend to be different for each weapon type.
-
-| Weapon Type | Description  |
-| ----------- | ------------ |
-| [[OLD/Weapon Folder Main/Weapon Type Folder/Gun\|Gun]]     | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-4-assembly/weapon-folder/weapon-tags/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-**Targeting:** Sharpness + Aim Assist
-**Base Range:** 3
-**On Use:** Discharge
-**Recoil:** On Discharge; base 1 plus rail
-**Property:** Rail (value)
-The rail value is added to targeting during discharge. The rail value causes additional recoil loss on discharge.
 
-</div></div>
-     |
-| [[OLD/Weapon Folder Main/Weapon Type Folder/Cannon\|Cannon]]  | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+Each weapon tag modifies the way a weapon is played in some way, either casually through straight improvement, or by some sort of alteration to the base way in which it is used.
+- A weapon can have a weapon tag of a specified name only once, no matter the tiers.
+- A weapon can have any arrangement of tags otherwise.
 
-
-
-**Targeting:** Sharpness + Lock Correction  
-**Base Range:** 4 + Artillery  
-**On Use:** Discharge  
-**Recoil:** On Discharge; base 1  
-**Property:** Artillery (value)  
-The artillery value increases the base range before it is multiplied. The artillery value causes additional recoil loss on discharge.  
-**Special:** Can be angled, overcoming obstacles on a vertical plane, shooting above buildings for example, but must remain a straight line horizontally.
-
-</div></div>
-  |
-| [[OLD/Weapon Folder Main/Weapon Type Folder/Melee\|Melee]]   | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-**Targeting:** Sharpness + Servo Assist  
-**Base Range:** Adjacent Hex Only  
-**On Use:** Discharge  
-**Recoil:** On Discharge; base 1  
-**Property:** Force (value)  
-The force value is added to the harm test on hit during discharge.  
-**Special:** Range is not multiplied by the scanner value. Cannot be installed on the mounted slots.
-
-</div></div>
-   |
-| [[OLD/Weapon Folder Main/Weapon Type Folder/Missile\|Missile]] | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-**Targeting:** Lock Correction + Homing + d8  
-**Base Range:** 4  
-**On Use:** Discharge  
-**Recoil:** On Discharge; base 1  
-**Property:** Homing (die)  
-The homing die is added to targeting during discharge.  
-**Special:** Add extra d8 to targeting during discharge.
-
-</div></div>
- |
-| [[OLD/Weapon Folder Main/Weapon Type Folder/Drone\|Drone]]   | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-**Targeting:** d8  
-**Base Range:** 2  
-**On Use:** Activate  
-**Recoil:** None  
-**Property:** Lifetime (value)  
-The lifetime value increases the number of rounds for which the weapon can remain active.  
-**Special:** During your turn, you may designate a point of interest. The weapon then autonomously discharges on that designation once at no action cost during an ally turn, every round, while active. The drone is not affected by your own recoil.
-
-</div></div>
-   |
+| Weapon Tag                 | Brief                                                |
+| -------------------------- | ---------------------------------------------------- |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Strike\|Tag, Strike]]            | Increases base damage.                               |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Shockwave\|Tag, Shockwave]]         | Increases  direct hit damage and impact.             |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Homing\|Tag, Homing]]            | Provides own targeting die.                          |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Reach\|Tag, Reach]]             | Longer range, or longer melee reach.                 |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Multifire\|Tag, Multifire]]         | Fires in quick succession at a single use.           |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Rapid Fire\|Tag, Rapid Fire]]        | Can be used more than once in a turn.                |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Lock\|Tag, Lock]]              | Increased accuracy (at the cost of additional step). |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Zone In\|Tag, Zone In]]           | Slow acting huge payload.                            |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Direct Adjustment\|Tag, Direct Adjustment]] | Increases direct hit damage.                         |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Burst\|Tag, Burst]]             | Creates damaging radius.                             |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Arc\|Tag, Arc]]               | Arcs the projectile over and around obstacles.       |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Weapon Tags Folder/Tag, Tracer\|Tag, Tracer]]            | Highlights the target.                               |
 
 
 </div></div>
 
 # Damage Type
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/document-listing/chapters/folder-4-assembly/weapon-folder/damage-type/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-The damage type designates the type of defence a weapon is matched against, and adds a special property to it.
 
-| Weapon Type            | Description             |
-| ---------------------- | ----------------------- |
-| [[OLD/Weapon Folder Main/Damage Type Folder/Kinetic Damage\|Kinetic Damage]]     | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+By selecting a damage type, you can choose from among several damage-specific tags.
 
+| Damage Type             | Description           |
+| ----------------------- | --------------------- |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Types Folder/Damage, Kinetic\|Damage, Kinetic]]     | Basic cannon shells.  |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Types Folder/Damage, Energy\|Damage, Energy]]      | Electric arcs.        |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Types Folder/Damage, Blast\|Damage, Blast]]       | Explosives.           |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Types Folder/Damage, Wave\|Damage, Wave]]        | Universal resonators. |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Types Folder/Damage, Singularity\|Damage, Singularity]] | Anomalous weapons.    |
 
-
-**Plating:** Anti-Kinetic Plating  
-**Property:** Piercing (value)  
-When you hit a designation with a kinetic weapon during discharge, you reduce the kinetic defence against that weapon by the piercing value, to the minimum of 0.
-
-</div></div>
-     |
-| [[OLD/Weapon Folder Main/Damage Type Folder/Energy Damage\|Energy Damage]]      | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-**Plating:** Anti-Energy Plating  
-**Property:** Plasma (value)  
-When you hit a designation with an energy weapon during discharge, and deal at least 1 point of unblocked damage, the designation takes damage equal to the listed plasma value at the beginning of its next turn. This damage recurs for one more turn and clears.  
-**Special:** While the designation is suffering from plasma, subsequent hits with energy weapons with at least 1 plasma value add 1 to this recurring damage to the maximum of 5 and refresh the round count before plasma is extinguished.
-
-</div></div>
-      |
-| [[OLD/Weapon Folder Main/Damage Type Folder/Blast Damage\|Blast Damage]]       | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-**Plating:** Anti-Blast Plating  
-**Property:** Radius (value)  
-Whether you hit or miss the designation during weapon discharge, you generate an explosion in the designation's hex. An explosion has a range equal to the radius value. You harm all points of interest within the explosion range including yourself and the initial designation again. This counts as a separate instance.
-
-</div></div>
-       |
-| [[OLD/Weapon Folder Main/Damage Type Folder/Wave Damage\|Wave Damage]]        | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-**Plating:** Wave damage is compared against the lowest of all three plating types.  
-**Property:** Resonance (value)  
-When you hit a designation with a wave weapon during discharge, it resonates until the beginning of your next turn. All subsequent damage taken during this time is increased by the resonance value.  
-**Special:** Wave weapons are rare, and need to be uncovered, reverse-engineered, or both, as part of downtime. They additionally require a wave generator on board.
-
-</div></div>
-        |
-| [[OLD/Weapon Folder Main/Damage Type Folder/Singularity Damage\|Singularity Damage]] | 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-**Plating:** None.  
-**Property:** Stability (value)  
-Add Stability value to damage.  
-**Special:** Singularity weapons are extremely rare and borderline illegal. They additionally require a singularity generator on board.
-
-</div></div>
- |
+| Damage Tag         | Damage Type | Brief                                |
+| ------------------ | ----------- | ------------------------------------ |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Tags Folder/Tag, Pierce\|Tag, Pierce]]    | Kinetic     | Pierces through mitigation.          |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Tags Folder/Tag, Plasma\|Tag, Plasma]]    | Energy      | Inflicts unavoidable damage.         |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Tags Folder/Tag, EMP\|Tag, EMP]]       | Energy      | Directly attacks the unit's systems. |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Tags Folder/Tag, Napalm\|Tag, Napalm]]    | Blast       | Inflicts damage over time.           |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Tags Folder/Tag, Rebound\|Tag, Rebound]]   | Blast       | Guarantees small amounts of damage.  |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Tags Folder/Tag, Resonance\|Tag, Resonance]] | Wave        | Increases damage taken.              |
+| [[Document Listing/Chapters/Folder 4 - Assembly/Weapon Folder/Damage Tags Folder/Tag, Anomaly\|Tag, Anomaly]]   | Singularity | Directly increases incoming damage.  |
 
 
 </div></div>

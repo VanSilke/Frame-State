@@ -6,6 +6,6 @@
 Based on chassis. Describes how hard it is to throw the frame off-balance.
 - You lose stability points when taking impact, equal to the amount of impact taken.
 - You replenish stability points with the Stabilise action.
-- You automatically Stabilise at no cost at the beginning of your turn.
+- You automatically regain stability points equal to Attitude Recovery at the start of your turn.
 
 When a unit's stability is lowered down to 0, it is staggered.

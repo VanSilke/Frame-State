@@ -6,9 +6,8 @@ Much like the frame, weapons have their own statistical elements. The statistics
 
 Furthermore, these basic statistics do not reflect the full extent of a weapon's utility, as most of it comes from the damage type and chosen tags.
 
-| Weapon Statistics | Description |
-| ----------------- | ----------- |
-| [[Document Listing/Chapters/Folder 3 - Statistics/Weapon Stats NEW/Targeting\|Targeting]]     |             |
-| [[Document Listing/Chapters/Folder 3 - Statistics/Weapon Stats NEW/Base Damage\|Base Damage]]   |             |
-| [[Document Listing/Chapters/Folder 3 - Statistics/Weapon Stats NEW/Range\|Range]]         |             |
+| Weapon Statistics | Description                 |
+| ----------------- | --------------------------- |
+| [[Document Listing/Chapters/Folder 3 - Statistics/Weapon Stats/Base Damage\|Base Damage]]   | Default damage of a weapon. |
+| [[Document Listing/Chapters/Folder 3 - Statistics/Weapon Stats/Range\|Range]]         | Default range of a weapon.  |
 

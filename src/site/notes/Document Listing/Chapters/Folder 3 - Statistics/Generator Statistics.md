@@ -4,7 +4,7 @@
 
 The generator provides the statistics for a more optional, but nevertheless highly important element of energy management.
 
-| Generator Statistics | Description |
-| -------------------- | ----------- |
-| [[Document Listing/Chapters/Folder 3 - Statistics/Generator Stats Folder/Energy Capacity\|Energy Capacity]]  |             |
-| [[Document Listing/Chapters/Folder 3 - Statistics/Generator Stats Folder/Energy Recharge\|Energy Recharge]]  |             |
+| Generator Statistics | Description                          |
+| -------------------- | ------------------------------------ |
+| [[Document Listing/Chapters/Folder 3 - Statistics/Generator Stats Folder/Energy Capacity\|Energy Capacity]]  | Maximum for the energy point pool.   |
+| [[Document Listing/Chapters/Folder 3 - Statistics/Generator Stats Folder/Energy Recharge\|Energy Recharge]]  | Recovery rate for the energy points. |

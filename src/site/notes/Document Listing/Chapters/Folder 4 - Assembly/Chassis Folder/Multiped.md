@@ -11,3 +11,4 @@ A multiped has three or more extendable legs, which allow the frame to hold on t
 | Stability       |  12 |
 | Speed           |   3 |
 | Recoil          |   4 |
+| Armour          |   2 |

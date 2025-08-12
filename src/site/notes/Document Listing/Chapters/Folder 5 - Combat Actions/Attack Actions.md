@@ -4,28 +4,27 @@
 
 When you have an enemy in sight and want to commence hostilities, you can spend resources to use one of your weapons to attack. The following standard resolution applies to all sorts of attack events, weapon use being only one among them.
 
-# 1. Targeting and Evasion
-Using a weapon requires that you designate a point of interest. Make a targeting test against the designation's evasion. If the designation cannot evade, the mark is 0.
-- Critical: You score a direct hit on the designation and deal additional d4 damage, rolled as a bonus value.
+# 1. Attack vs Dodge
+Using a weapon requires that you designate a point of interest. If you are the aggressor, you Attack against Dodge. If you're being targeted, you Dodge against Attack. If the designation cannot evade, the mark is 0.
+- Extreme: You score a Direct Hit on the designation and deal additional d4 damage as bonus modifier.
 - Success: You score a normal hit on the designation and deal damage.
-- Failure: You miss the designation. Do not apply any special effects reliant on hitting the designation.
+- Failure: You miss the designation. Do not apply any special effects reliant on hitting the designation. Other special effects may occur.
 
-| Targeting | Evasion |
-| :-------: | :-----: |
-| Sharpness | Synergy |
+|              Attack               |             Dodge             |
+| :-------------------------------: | :---------------------------: |
+| Sharpness + Precision + Modifiers | Synergy + Evasion + Modifiers |
 
-If you are being targeted by an enemy, the situation is reversed and the enemy can get a critical if you fail by 2 or more, dealing additional damage to you or your frame.
 
 # 2. Damage
-When a unit is hit with a damaging effect, it takes damage, calculated with all relevant bonuses and penalties. This is set as incoming damage. As an aggressor, you usually make a damage test. A damage test can ace, but cannot have a critical by itself.
-- The unit reduces the incoming damage by its relevant defences, if any, and records the amount mitigated in this way, as it later converts to impact. The remaining damage is subtracted from the unit's integrity points.
-- If the unit has any sort of damage negation, it may apply before or after the mitigation. Negated damage is not recorded nor converted to impact.
+When a unit is damaged, it must be calculated. This is set as incoming damage. As an aggressor, you make an Incoming Damage test and compare it against Mitigation. If you're the one being harmed, Mitigate and compare the outcome against Incoming Damage. A damage test can ace, but it has no intrinsic extreme outcome.
+- The unit reduces the incoming damage by its relevant defences, if any, and records the amount mitigated in this way, as it soon converts to impact. The remaining damage is subtracted from the unit's integrity points.
+- If the unit has any sort of damage negation, it may apply before or after the mitigation. Negated damage is not recorded nor converted to impact. Note that mitigation and negation are two separate terms here.
 
-|    Damage     | Mitigation |
-| :-----------: | :--------: |
-| Weapon Damage |   Smarts   |
+|      Incoming Damage      |         Mitigation          |
+| :-----------------------: | :-------------------------: |
+| Weapon Damage + Modifiers | Smarts + Armour + Modifiers |
 
-If you are being damaged, the situation is reversed. The incoming damage is static, and you must make a mitigation test based on your Smarts to see how much damage is converted to impact. 
+
 
 # 3. Impact
 After the unit has taken damage (regardless if the damage reduced its integrity or not), it takes the recorded amount of damage its defences managed to mitigate as impact. The result is identical whether you are the aggressor or defender, the only thing that changes is who gets harmed.

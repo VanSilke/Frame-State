@@ -12,3 +12,4 @@ A reverse-joint frame is a highly mobile biped variant, which can jump great dis
 | Stability       |   9 |
 | Speed           |   5 |
 | Recoil          |   2 |
+| Armour          |   1 |

@@ -7,7 +7,7 @@ Steps are a special resource available to all functioning units on the field. Al
 - You recover all steps at the beginning of your turn.
 
 # Acting Outside Your Turn
-If you forfeited a step during your turn (ended before using all of them), you can use it during the rest of the round. 
+If you forfeited a step during your turn (as in, ended your turn before using all steps you had), you can use it during the rest of the round. 
 - The action can not cost more than one step.
 - Performing the action always costs one step, even if it would normally be free.
 

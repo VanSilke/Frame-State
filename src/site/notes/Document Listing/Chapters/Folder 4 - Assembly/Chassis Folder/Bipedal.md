@@ -11,3 +11,4 @@ A standard bipedal frame resembles that of a humanoid, and as such provides the 
 | Stability       |  12 |
 | Speed           |   4 |
 | Recoil          |   3 |
+| Armour          |   2 |
