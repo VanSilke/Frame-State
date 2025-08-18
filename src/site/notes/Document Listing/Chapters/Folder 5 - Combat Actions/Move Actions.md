@@ -4,7 +4,8 @@
 
 When your unit is in a bad location on the map and you want to change it, you can spend resources to move.
 - Moving always uses the unit's speed statistic to set the movement range. 
-- The movement range may or may not be straight. It usually is not, allowing the unit to meander freely.
+- The movement range may or may not be straight. It usually is not, allowing the unit to freely adjust its path.
+- If the movement is straight, it must occur in as straight a line as possible.
 
 # Base Movement
 During base movement, a unit spends 1 step to move up to its movement range.
@@ -13,7 +14,7 @@ During base movement, a unit spends 1 step to move up to its movement range.
 - Certain abilities and components modify the capabilities of base movement.
 
 # Flight
-If base movement is not enough, the unit can fly. This uses 1 step and 1 energy point.
+If base movement is not enough, the unit can fly. This uses 1 step and 1 energy point to fly up to the maximum of its movement range. When the unit flies on its turn, it is considered airborne rather than grounded.
 - The movement can be horizontal, vertical, or both, in whichever order you wish.
 - While an upward-angled boost can be narrated as such, it must be abstracted into a sum of horizontal and vertical movement, as normal.
 - You may fly as high as 10 times your movement range in metres above the terrain level.

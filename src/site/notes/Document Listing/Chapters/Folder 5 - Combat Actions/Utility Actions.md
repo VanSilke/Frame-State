@@ -5,10 +5,9 @@
 A utility action is one that does not fall under either attack or movement. These can vary, such as surveying the environment, or activating an expansion.
 
 
-| Action        | Description             |
-| ------------- | ----------------------- |
-| [[Stabilise\|Stabilise]] | Recover some Stability. |
-
-
-
+| Action        | Description                    |
+| ------------- | ------------------------------ |
+| [[Document Listing/Chapters/Folder 5 - Combat Actions/Stabilise\|Stabilise]] | Recover some Stability.        |
+| [[Hide\|Hide]]      | Cloak your unit.               |
+| [[Survey\|Survey]]    | Search for points of interest. |
 Currently, the only additional Utility action that does not prevent immediate demise is a mark 5 Smarts action to Survey. A success reveals cloaked units, if any exist within 50 metres. This detection cannot go through solid, non-transparent obstacles.
