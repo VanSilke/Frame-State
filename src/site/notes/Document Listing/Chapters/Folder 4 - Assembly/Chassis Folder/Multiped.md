@@ -3,7 +3,7 @@
 ---
 
 A multiped has three or more extendable legs, which allow the frame to hold on to difficult terrain.
-- The frame can move vertically across surfaces, but does not count as grounded while doing so.
+- The frame can move vertically across surfaces, and counts as grounded while doing so.
 
 | Base Statistics |     |
 | --------------- | --: |

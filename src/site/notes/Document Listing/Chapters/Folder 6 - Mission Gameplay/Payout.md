@@ -3,12 +3,12 @@
 ---
 
 Missions have a base payout, offered if the Pilots succeed at the primary objective. A mission can have secondary or hidden objectives, which provide bonus pay. On the other hand, the employer may reduce pay if an objective is mismanaged.
-- Most of the variables should be shown before the mission so as to avoid confusion.
+- Most of the variables should be shown before the mission so as to avoid confusion. The Handler is free to introduce new or altered objectives, so long as the default pay is not reduced.
 
 # Mission Costs
 While on a mission, keep track of each integrity loss and each use of a weapon. When the mission concludes, tally up the total Cost for each and multiply it by 5 to receive the credit fee.
 - Each integrity point lost has 1 Cost.
-- Each weapon use has Cost based on its tier
+- Each weapon use has Cost based on its tier.
 
 | Mission Cost     | Cost pt.    |
 | ---------------- | ----------- |

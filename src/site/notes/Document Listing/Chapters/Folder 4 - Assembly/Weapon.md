@@ -25,7 +25,7 @@ Based on the general weapon type, the base is modified.
 
 | Weapon Type | Targeting Bonus |          Attribute Benefit          | Caveat                                                                                                                                            |
 | :---------: | --------------- | :---------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    Melee    | Servo Assist    |  Add Servo Assist value to damage.  | The weapon always has a range of 1, and cannot be modified outside of effects that specify melee.                                                 |
+|    Melee    | Servo Control   | Add Servo Control value to damage.  | The weapon always has a range of 1, and cannot be modified outside of effects that specify melee.                                                 |
 |   Shooter   | Aim Assist      |                  -                  | -                                                                                                                                                 |
 |   Lock-on   | Lock Correction | Add Lock Correction value to range. | The weapon's minimum range value is moved by Lock Correction. Using the weapon below the minimum range does not add Lock Correction to targeting. |
 

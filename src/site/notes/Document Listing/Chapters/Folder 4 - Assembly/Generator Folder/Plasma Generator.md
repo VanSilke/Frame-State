@@ -3,7 +3,7 @@
 ---
 
 A plasma generator outputs power at a reliable rate, even when it would otherwise pause.
-- When overheated, the frame still regains 1 energy point at the beginning of its turn.
+- When overheated, the frame still regains 1 energy point at the beginning of its turn. This energy cannot be used, however, until the overheating is removed.
 
 | Base Statistics |     |
 | --------------- | --: |

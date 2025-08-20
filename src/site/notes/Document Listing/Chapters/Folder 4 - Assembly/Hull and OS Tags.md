@@ -15,3 +15,4 @@ Initially, all attributes begin with values of 0, and the Pilot has 10 points to
 | [[Document Listing/Chapters/Folder 4 - Assembly/Hull and OS Tags Folder/Tag, System Recovery\|Tag, System Recovery]]  | Adds to stability and recovers stability faster.   |
 | [[Document Listing/Chapters/Folder 4 - Assembly/Hull and OS Tags Folder/Tag, Ablative Layer\|Tag, Ablative Layer]]   | Negates some damage for a limited number of times. |
 | [[Document Listing/Chapters/Folder 4 - Assembly/Hull and OS Tags Folder/Tag, Scanner\|Tag, Scanner]]          | Adds to surveys. Increases weapon ranges.          |
+|                           |                                                    |
