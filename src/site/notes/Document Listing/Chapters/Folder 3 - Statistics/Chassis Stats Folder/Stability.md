@@ -4,6 +4,7 @@
 
 **Resource**
 Based on chassis. Describes how hard it is to throw the frame off-balance.
+- Each tuning point spent on stability increases maximum stability by 3.
 - You lose stability points when taking impact, equal to the amount of impact taken.
 - You replenish stability points with the Stabilise action.
 - You automatically regain stability points equal to Attitude Recovery at the start of your turn.

@@ -4,6 +4,7 @@
 
 **Resource**
 Based on chassis. Describes how well the frame holds up under duress, and how much punishment it can take before falling apart.
+- Each tuning point spent on integrity increases maximum integrity by 3.
 - You lose integrity points when taking damage, equal to the amount of damage taken.
 - You replenish integrity points with the Repair action and other activities.
 
